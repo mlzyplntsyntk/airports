@@ -18,17 +18,20 @@ type Airport struct {
 }
 
 func main() {
+	measureDistances("./dist/distancesIata.csv", true)
+	measureDistances("./dist/distances.csv", false)
+}
 
-	fmt.Println("Started");
+func measureDistances(distFile string, onlyIatas bool) {
+	fmt.Printf("Started for file %s ", distFile);
 
-	distFile := "./dist/distances.csv"
 	deleteIfFileExists(distFile)
 
 	writeToFile(distFile, fmt.Sprintf("%s;%s;%s", "from", "to", "distanceInKM"))
 
 	fmt.Println("Init end");
 
-	ports := getAllAirports()
+	ports := getAllAirports(onlyIatas)
 	
 	fmt.Printf("Running loop for %d airpots\n", len(ports))
 
@@ -41,7 +44,11 @@ func main() {
 	for x := 0; x<len(ports); x++ {
 		for y := x+1; y<len(ports); y++ {
 			distance := measureDistanceInKm(ports[x].lat, ports[x].lon, ports[y].lat, ports[y].lon)
-			writeToFile(distFile, fmt.Sprintf("%s;%s;%f", ports[x].identity, ports[y].identity, distance))
+			if onlyIatas {
+				writeToFile(distFile, fmt.Sprintf("%s;%s;%f", ports[x].iata, ports[y].iata, distance))
+			} else {
+				writeToFile(distFile, fmt.Sprintf("%s;%s;%f", ports[x].identity, ports[y].identity, distance))
+			}
 			totalDone ++;
 		} 
 	}
@@ -49,8 +56,12 @@ func main() {
 	fmt.Printf("Total Done : %d\n", totalDone)
 }
 
-func getAllAirports() []Airport {
-	fptr := flag.String("fpath", "./source/airport-codes_csv.csv", "Read from")
+func getAllAirports(onlyIatas bool) []Airport {
+	flagName := "fpath"
+	if onlyIatas {
+		flagName = "fpath1"
+	}
+	fptr := flag.String(flagName, "./source/airport-codes_csv.csv", "Read from")
 	flag.Parse()
 
 	f, err := os.Open(*fptr)
@@ -72,7 +83,12 @@ func getAllAirports() []Airport {
 		if i == 1 {
 			continue
 		}
+
 		place := strings.Split(s.Text(), ";")
+
+		if len(place[9]) == 0 && onlyIatas {
+			continue
+		}
 
 		coord1str := strings.Replace(place[11], ",", ".", -1)
 		coord1, err := strconv.ParseFloat(coord1str, 64);
