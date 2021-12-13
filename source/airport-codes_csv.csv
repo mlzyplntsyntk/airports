@@ -1,0 +1,918 @@
+ident;type;name;elevation_ft;continent;iso_country;iso_region;municipality;gps_code;iata_code;local_code;coordinates1;coordinates2
+EBAW;medium_airport;Antwerp International Airport (Deurne);39;EU;BE;BE-VAN;Antwerp;EBAW;ANR;;4,460279942;51,18939972
+EBBE;medium_airport;Beauvechain Air Base;370;EU;BE;BE-WBR;Beauvechain;EBBE;;;4,768330097;50,75859833
+EBBL;medium_airport;Kleine Brogel Air Base;200;EU;BE;BE-VLI;Kleine Brogel;EBBL;;;5,47;51,168301
+EBBR;large_airport;Brussels Airport;184;EU;BE;BE-BRU;Brussels;EBBR;BRU;;4,48443985;50,90140152
+EBCI;large_airport;Brussels South Charleroi Airport;614;EU;BE;BE-WHT;Brussels;EBCI;CRL;;4,45382;50,459202
+EBCV;medium_airport;ChiÃ¨vres Air Base;194;EU;BE;BE-WHT;ChiÃ¨vres;EBCV;;;3,83100009;50,57580185
+EBFN;medium_airport;Koksijde Air Base;20;EU;BE;BE-VWV;Koksijde;EBFN;;;2,652780056;51,09030151
+EBFS;medium_airport;Florennes Air Base;935;EU;BE;BE-WNA;Florennes;EBFS;;;4,645830154;50,24330139
+EBKT;medium_airport;Wevelgem Airport;64;EU;BE;BE-VWV;Wevelgem;EBKT;KJK;;3,20472002;50,81719971
+EBLG;large_airport;LiÃ¨ge Airport;659;EU;BE;BE-WLG;LiÃ¨ge;EBLG;LGG;;5,443220139;50,63740158
+EBOS;medium_airport;Ostend-Bruges International Airport;13;EU;BE;BE-VWV;Ostend;EBOS;OST;;2,862220049;51,19889832
+EDAC;medium_airport;Altenburg-Nobitz Airport;640;EU;DE;DE-TH;Altenburg;EDAC;AOC;;12,506389;50,981945
+EDAH;medium_airport;Heringsdorf Airport;93;EU;DE;DE-MV;Heringsdorf;EDAH;HDF;;14,15229988;53,87870026
+EDBM;medium_airport;"Magdeburg ""City"" Airport";259;EU;DE;DE-ST;Magdeburg;EDBM;ZMG;;11,626389;52,073612
+EDBN;medium_airport;Neubrandenburg Airport;228;EU;DE;DE-MV;Neubrandenburg;EDBN;FNB;;13,306;53,6022
+EDBR;medium_airport;Rothenburg/GÃ¶rlitz Airport;518;EU;DE;DE-SN;Rothenburg/Oberlausitz;EDBR;;;14,94999981;51,36333466
+EDDB;large_airport;Berlin-SchÃ¶nefeld Airport;157;EU;DE;DE-BR;Berlin;EDDB;SXF;;13,5225;52,380001
+EDDC;large_airport;Dresden Airport;755;EU;DE;DE-SN;Dresden;EDDC;DRS;;13,76720047;51,13280106
+EDDE;medium_airport;Erfurt Airport;1036;EU;DE;DE-TH;Erfurt;EDDE;ERF;;10,95810032;50,97980118
+EDDF;large_airport;Frankfurt am Main Airport;364;EU;DE;DE-HE;Frankfurt am Main;EDDF;FRA;;8,570556;50,033333
+EDDG;large_airport;MÃ¼nster OsnabrÃ¼ck Airport;160;EU;DE;DE-NW;MÃ¼nster;EDDG;FMO;;7,684830189;52,13460159
+EDDH;large_airport;Hamburg Airport;53;EU;DE;DE-HH;Hamburg;EDDH;HAM;;9,988229752;53,63040161
+EDDK;large_airport;Cologne Bonn Airport;302;EU;DE;DE-NW;Cologne;EDDK;CGN;;7,142739773;50,86589813
+EDDL;large_airport;DÃ¼sseldorf Airport;147;EU;DE;DE-NW;DÃ¼sseldorf;EDDL;DUS;;6,76678;51,289501
+EDDM;large_airport;Munich Airport;1487;EU;DE;DE-BY;Munich;EDDM;MUC;;11,7861;48,353802
+EDDN;large_airport;Nuremberg Airport;1046;EU;DE;DE-BY;Nuremberg;EDDN;NUE;;11,078056;49,498699
+EDDP;large_airport;Leipzig/Halle Airport;465;EU;DE;DE-SN;Leipzig;EDDP;LEJ;;12,236389;51,423889
+EDDR;medium_airport;SaarbrÃ¼cken Airport;1058;EU;DE;DE-SL;SaarbrÃ¼cken;EDDR;SCN;;7,109509945;49,21459961
+EDDS;large_airport;Stuttgart Airport;1276;EU;DE;DE-BW;Stuttgart;EDDS;STR;;9,221960068;48,68989944
+EDDT;large_airport;Berlin-Tegel Airport;122;EU;DE;DE-BE;Berlin;EDDT;TXL;;13,2877;52,5597
+EDDV;large_airport;Hannover Airport;183;EU;DE;DE-NI;Hannover;EDDV;HAJ;;9,685079575;52,46110153
+EDDW;large_airport;Bremen Airport;14;EU;DE;DE-HB;Bremen;EDDW;BRE;;8,786669731;53,04750061
+EDFE;medium_airport;Frankfurt-Egelsbach Airport;384;EU;DE;DE-HE;Frankfurt am Main;EDFE;;;8,645833;49,959999
+EDFH;medium_airport;Frankfurt-Hahn Airport;1649;EU;DE;DE-RP;Frankfurt am Main;EDFH;HHN;;7,26389;49,9487
+EDFM;medium_airport;Mannheim-City Airport;308;EU;DE;DE-BW;Mannheim;EDFM;MHG;;8,514167;49,473057
+EDFZ;medium_airport;Mainz-Finthen Airport;525;EU;DE;DE-RP;Mainz;EDFZ;;;8,147222;49,967499
+EDGE;medium_airport;Eisenach-Kindel Airport;1112;EU;DE;DE-TH;Eisenach;EDGE;EIB;;10,47973;50,991604
+EDGS;medium_airport;Siegerland Airport;1966;EU;DE;DE-NW;;EDGS;SGE;;8,082969666;50,70769882
+EDHI;medium_airport;Hamburg-Finkenwerder Airport;23;EU;DE;DE-HH;Hamburg;EDHI;XFW;;9,83555603;53,53527832
+EDHK;medium_airport;Kiel-Holtenau Airport;102;EU;DE;DE-SH;Kiel;EDHK;KEL;;10,14527798;54,37944412
+EDHL;medium_airport;LÃ¼beck Blankensee Airport;53;EU;DE;DE-SH;LÃ¼beck;EDHL;LBC;;10,71920013;53,80540085
+EDJA;medium_airport;Memmingen Allgau Airport;2077;EU;DE;DE-BY;Memmingen;EDJA;FMM;;10,23950005;47,98880005
+EDLN;medium_airport;MÃ¶nchengladbach Airport;125;EU;DE;DE-NW;MÃ¶nchengladbach;EDLN;MGL;;6,504444;51,230278
+EDLP;medium_airport;Paderborn Lippstadt Airport;699;EU;DE;DE-NW;Paderborn;EDLP;PAD;;8,616319656;51,61410141
+EDLV;medium_airport;Weeze Airport;106;EU;DE;DE-NW;Weeze;EDLV;NRN;;6,142169952;51,60240173
+EDLW;large_airport;Dortmund Airport;425;EU;DE;DE-NW;Dortmund;EDLW;DTM;;7,612239838;51,5182991
+EDMA;medium_airport;Augsburg Airport;1516;EU;DE;DE-BY;Augsburg;EDMA;AGB;;10,931667;48,425278
+EDMO;medium_airport;Oberpfaffenhofen Airport;1947;EU;DE;DE-BY;;EDMO;OBF;;11,2831;48,081402
+EDNY;medium_airport;Friedrichshafen Airport;1367;EU;DE;DE-BW;Friedrichshafen;EDNY;FDH;;9,511489868;47,67129898
+EDOP;medium_airport;Schwerin Parchim Airport;166;EU;DE;DE-MV;;EDOP;SZW;;11,7834;53,426998
+EDQA;medium_airport;Airport Bamberg-Breitenau;811;EU;DE;DE-BY;Bamberg;EDQA;;;10,914233;49,920403
+EDQD;medium_airport;Bayreuth Airport;1601;EU;DE;DE-BY;Bayreuth;EDQD;BYU;;11,64;49,985001
+EDQM;medium_airport;Hof-Plauen Airport;1959;EU;DE;DE-BY;Hof;EDQM;HOQ;;11,85638905;50,28861237
+EDSB;large_airport;Karlsruhe Baden-Baden Airport;408;EU;DE;DE-BW;Baden-Baden;EDSB;FKB;;8,080499649;48,77939987
+EDTD;medium_airport;Donaueschingen-Villingen Airport;2231;EU;DE;DE-BW;Donaueschingen;EDTD;ZQL;;8,522221565;47,97333145
+EDTL;medium_airport;Lahr Airport;511;EU;DE;DE-BW;;EDTL;LHA;;7,827720165;48,36930084
+EDTY;medium_airport;Adolf WÃ¼rth Airport;1299;EU;DE;DE-BW;SchwÃ¤bisch Hall;EDTY;;;9,783888817;49,11833191
+EDUZ;medium_airport;Zerbst Airport;289;EU;DE;DE-ST;Zerbst/Anhalt;EDUZ;;;12,148611;52,000832
+EDVE;medium_airport;Braunschweig-Wolfsburg Airport;295;EU;DE;DE-NI;Braunschweig;EDVE;BWE;;10,5561;52,319199
+EDVK;medium_airport;Kassel-Calden Airport;820;EU;DE;DE-HE;Kassel;EDVK;KSF;;9,384967;51,417273
+EDXW;medium_airport;Westerland Sylt Airport;51;EU;DE;DE-SH;Westerland;EDXW;GWT;;8,340470314;54,91320038
+EEEI;medium_airport;Ãmari Air Base;65;EU;EE;EE-37;Keila;EEEI;;;24,20849991;59,26029968
+EEKA;medium_airport;KÃ¤rdla Airport;18;EU;EE;EE-39;KÃ¤rdla;EEKA;KDL;;22,83069992;58,99079895
+EEKE;medium_airport;Kuressaare Airport;14;EU;EE;EE-74;Kuressaare;EEKE;URE;;22,5095005;58,22990036
+EEPU;medium_airport;PÃ¤rnu Airport;47;EU;EE;EE-67;PÃ¤rnu;EEPU;EPU;;24,4727993;58,41899872
+EETN;large_airport;Lennart Meri Tallinn Airport;131;EU;EE;EE-37;Tallinn;EETN;TLL;;24,83279991;59,41329956
+EETU;medium_airport;Tartu Airport;219;EU;EE;EE-7B;Tartu;EETU;TAY;;26,69039917;58,30749893
+EFET;medium_airport;Enontekio Airport;1005;EU;FI;FI-LL;Enontekio;EFET;ENF;;23,42429924;68,36260223
+EFHA;medium_airport;Halli Airport;479;EU;FI;FI-LS;Halli / Kuorevesi;EFHA;KEV;;24,786686;61,856039
+EFHF;medium_airport;Helsinki Malmi Airport;57;EU;FI;FI-ES;Helsinki;EFHF;HEM;;25,0428009;60,25460052
+EFHK;large_airport;Helsinki Vantaa Airport;179;EU;FI;FI-ES;Helsinki;EFHK;HEL;;24,9633007;60,31719971
+EFIT;medium_airport;Kitee Airport;364;EU;FI;FI-IS;;EFIT;KTQ;;30,073601;62,1661
+EFIV;medium_airport;Ivalo Airport;481;EU;FI;FI-LL;Ivalo;EFIV;IVL;;27,40530014;68,6072998
+EFJO;medium_airport;Joensuu Airport;398;EU;FI;FI-IS;Joensuu / Liperi;EFJO;JOE;;29,60750008;62,66289902
+EFJY;medium_airport;Jyvaskyla Airport;459;EU;FI;FI-LS;JyvÃ¤skylÃ¤n Maalaiskunta;EFJY;JYV;;25,67830086;62,3995018
+EFKA;medium_airport;Kauhava Airport;151;EU;FI;FI-LS;Kauhava;EFKA;KAU;;23,051399;63,127102
+EFKE;medium_airport;Kemi-Tornio Airport;61;EU;FI;FI-LL;Kemi / Tornio;EFKE;KEM;;24,58209991;65,77870178
+EFKI;medium_airport;Kajaani Airport;483;EU;FI;FI-OL;Kajaani;EFKI;KAJ;;27,69239998;64,28549957
+EFKJ;medium_airport;Kauhajoki Airport;407;EU;FI;FI-LS;;EFKJ;KHJ;;22,39310074;62,46250153
+EFKK;medium_airport;Kokkola-Pietarsaari Airport;84;EU;FI;FI-LS;Kokkola / Kruunupyy;EFKK;KOK;;23,14310074;63,72119904
+EFKS;medium_airport;Kuusamo Airport;866;EU;FI;FI-OL;Kuusamo;EFKS;KAO;;29,23940086;65,98760223
+EFKT;medium_airport;KittilÃ¤ Airport;644;EU;FI;FI-LL;KittilÃ¤;EFKT;KTT;;24,84679985;67,7009964
+EFKU;medium_airport;Kuopio Airport;323;EU;FI;FI-IS;Kuopio / SiilinjÃ¤rvi;EFKU;KUO;;27,79780006;63,00709915
+EFLP;medium_airport;Lappeenranta Airport;349;EU;FI;FI-ES;Lappeenranta;EFLP;LPP;;28,144743;61,044601
+EFMA;medium_airport;Mariehamn Airport;17;EU;FI;FI-AL;;EFMA;MHQ;;19,89819908;60,12220001
+EFMI;medium_airport;Mikkeli Airport;329;EU;FI;FI-IS;Mikkeli;EFMI;MIK;;27,201799;61,6866
+EFOU;medium_airport;Oulu Airport;47;EU;FI;FI-OL;Oulu / Oulunsalo;EFOU;OUL;;25,35460091;64,93009949
+EFPO;medium_airport;Pori Airport;44;EU;FI;FI-LS;Pori;EFPO;POR;;21,79999924;61,46170044
+EFPR;medium_airport;Helsinki East-Redstone Airfield;72;EU;FI;FI-ES;Helsinki;EFPR;;;26,593889;60,479167
+EFRO;medium_airport;Rovaniemi Airport;642;EU;FI;FI-LL;Rovaniemi;EFRO;RVN;;25,83040047;66,56479645
+EFSA;medium_airport;Savonlinna Airport;311;EU;FI;FI-IS;Savonlinna;EFSA;SVL;;28,94510078;61,94309998
+EFSI;medium_airport;SeinÃ¤joki Airport;302;EU;FI;FI-LS;SeinÃ¤joki / Ilmajoki;EFSI;SJY;;22,8323;62,692101
+EFSO;medium_airport;Sodankyla Airport;602;EU;FI;FI-LL;Sodankyla;EFSO;SOT;;26,61910057;67,39499664
+EFTP;medium_airport;Tampere-Pirkkala Airport;390;EU;FI;FI-LS;Tampere / Pirkkala;EFTP;TMP;;23,60440063;61,41410065
+EFTU;medium_airport;Turku Airport;161;EU;FI;FI-LS;Turku;EFTU;TKU;;22,26280022;60,51409912
+EFUT;medium_airport;Utti Air Base;339;EU;FI;FI-ES;Utti / Valkeala;EFUT;UTI;;26,93840027;60,89640045
+EFVA;medium_airport;Vaasa Airport;19;EU;FI;FI-LS;Vaasa;EFVA;VAA;;21,7621994;63,05070114
+EFVR;medium_airport;Varkaus Airport;286;EU;FI;FI-IS;Varkaus / Joroinen;EFVR;VRK;;27,86860085;62,17110062
+EFYL;medium_airport;Ylivieska Airfield;252;EU;FI;FI-OL;;EFYL;YLI;;24,7252778;64,0547222
+EG-0003;medium_airport;Bilbeis 2 Airfield;;AF;EG;EG-SHR;Bilbeis;;;;31,67889977;30,42060089
+EGAA;large_airport;Belfast International Airport;268;EU;GB;GB-NIR;Belfast;EGAA;BFS;;-6,215829849;54,65750122
+EGAB;medium_airport;St Angelo Airport;155;EU;GB;GB-NIR;Enniskillen;EGAB;ENK;;-7,651669979;54,39889908
+EGAC;large_airport;George Best Belfast City Airport;15;EU;GB;GB-NIR;Belfast;EGAC;BHD;;-5,872499943;54,61809921
+EGAE;medium_airport;City of Derry Airport;22;EU;GB;GB-NIR;Derry;EGAE;LDY;;-7,161109924;55,0428009
+EGBB;large_airport;Birmingham International Airport;327;EU;GB;GB-ENG;Birmingham;EGBB;BHX;;-1,748029947;52,45389938
+EGBE;medium_airport;Coventry Airport;267;EU;GB;GB-ENG;Coventry;EGBE;CVT;;-1,479719996;52,36970139
+EGBJ;medium_airport;Gloucestershire Airport;101;EU;GB;GB-ENG;Staverton;EGBJ;GLO;;-2,167220116;51,89419937
+EGBN;medium_airport;Nottingham Airport;138;EU;GB;GB-ENG;Nottingham;EGBN;NQT;;-1,079169989;52,91999817
+EGCC;large_airport;Manchester Airport;257;EU;GB;GB-ENG;Manchester;EGCC;MAN;;-2,274950027;53,35369873
+EGCN;large_airport;Robin Hood Doncaster Sheffield Airport;55;EU;GB;GB-ENG;Doncaster;EGCN;DSA;;-1,010656357;53,48053781
+EGDC;medium_airport;Royal Marines Base Chivenor Airport;27;EU;GB;GB-ENG;Chivenor;EGDC;;;-4,15034008;51,08720016
+EGDM;medium_airport;MoD Boscombe Down Airport;407;EU;GB;GB-ENG;Amesbury;EGDM;;;-1,747410059;51,15219879
+EGDR;medium_airport;RNAS Culdrose;267;EU;GB;GB-ENG;Helston;EGDR;;;-5,255710125;50,08610153
+EGDX;medium_airport;St. Athan Airport;163;EU;GB;GB-WLS;St. Athan;EGSY;;;-3,43575;51,4048
+EGDY;medium_airport;RNAS Yeovilton;75;EU;GB;GB-ENG;Yeovil;EGDY;YEO;;-2,638819933;51,00939941
+EGEC;medium_airport;Campbeltown Airport;42;EU;GB;GB-SCT;Campbeltown;EGEC;CAL;;-5,686389923;55,43719864
+EGED;medium_airport;Eday Airport;10;EU;GB;GB-SCT;Eday;EGED;EOI;;-2,772219896;59,19060135
+EGEF;medium_airport;Fair Isle Airport;223;EU;GB;GB-SCT;Fair Isle;EGEF;FIE;;-1,628059983;59,53580093
+EGFE;medium_airport;Haverfordwest Airport;159;EU;GB;GB-WLS;Haverfordwest;EGFE;HAW;;-4,961110115;51,83309937
+EGFF;large_airport;Cardiff International Airport;220;EU;GB;GB-WLS;Cardiff;EGFF;CWL;;-3,343329906;51,39670181
+EGFH;medium_airport;Swansea Airport;299;EU;GB;GB-WLS;Swansea;EGFH;SWS;;-4,067830086;51,6053009
+EGGD;large_airport;Bristol Airport;622;EU;GB;GB-ENG;Bristol;EGGD;BRS;;-2,71909;51,382702
+EGGP;large_airport;Liverpool John Lennon Airport;80;EU;GB;GB-ENG;Liverpool;EGGP;LPL;;-2,849720001;53,33359909
+EGGW;large_airport;London Luton Airport;526;EU;GB;GB-ENG;London;EGGW;LTN;;-0,368333012;51,87469864
+EGHC;medium_airport;Land's End Airport;398;EU;GB;GB-ENG;Land's End;EGHC;LEQ;;-5,67056;50,102798
+EGHE;medium_airport;St. Mary's Airport;116;EU;GB;GB-ENG;St. Mary's;EGHE;ISC;;-6,291669846;49,91329956
+EGHH;large_airport;Bournemouth Airport;38;EU;GB;GB-ENG;Bournemouth;EGHH;BOH;;-1,842499971;50,77999878
+EGHI;large_airport;Southampton Airport;44;EU;GB;GB-ENG;Southampton;EGHI;SOU;;-1,35679996;50,95029831
+EGHL;medium_airport;Lasham Airfield;618;EU;GB;GB-ENG;Lasham;EGHL;;;-1,0335;51,187199
+EGHQ;medium_airport;Newquay Cornwall Airport;390;EU;GB;GB-ENG;Newquay;EGHQ;NQY;;-4,995409966;50,44060135
+EGJA;medium_airport;Alderney Airport;290;EU;GG;GG-U-A;Saint Anne;EGJA;ACI;;-2,21472;49,706104
+EGJB;medium_airport;Guernsey Airport;336;EU;GG;GG-U-A;Saint Peter Port;EGJB;GCI;;-2,601969957;49,43500137
+EGJJ;medium_airport;Jersey Airport;277;EU;JE;JE-U-A;Saint Helier;EGJJ;JER;;-2,195509911;49,207901
+EGKA;medium_airport;Shoreham Airport;7;EU;GB;GB-ENG;Brighton;EGKA;ESH;;-0,297222;50,835602
+EGKB;medium_airport;London Biggin Hill Airport;598;EU;GB;GB-ENG;London;EGKB;BQH;;0,032499999;51,3307991
+EGKK;large_airport;London Gatwick Airport;202;EU;GB;GB-ENG;London;EGKK;LGW;;-0,190278;51,148102
+EGLC;medium_airport;London City Airport;19;EU;GB;GB-ENG;London;EGLC;LCY;;0,055278;51,505299
+EGLF;medium_airport;Farnborough Airport;238;EU;GB;GB-ENG;Farnborough;EGLF;FAB;;-0,776332974;51,2757988
+EGLK;medium_airport;Blackbushe Airport;325;EU;GB;GB-ENG;Yateley;EGLK;BBS;;-0,847500026;51,32389832
+EGLL;large_airport;London Heathrow Airport;83;EU;GB;GB-ENG;London;EGLL;LHR;;-0,461941;51,4706
+EGMC;medium_airport;Southend Airport;49;EU;GB;GB-ENG;Southend;EGMC;SEN;;0,695555985;51,57139969
+EGMD;medium_airport;Lydd Airport;13;EU;GB;GB-ENG;Lydd, Ashford;EGMD;LYX;;0,939167023;50,95610046
+EGNC;medium_airport;Carlisle Airport;190;EU;GB;GB-ENG;Carlisle;EGNC;CAX;;-2,809170008;54,9375
+EGNH;medium_airport;Blackpool International Airport;34;EU;GB;GB-ENG;Blackpool;EGNH;BLK;;-3,028609991;53,77170181
+EGNJ;medium_airport;Humberside Airport;121;EU;GB;GB-ENG;Grimsby;EGNJ;HUY;;-0,350832999;53,57440186
+EGNL;medium_airport;Barrow Walney Island Airport;173;EU;GB;GB-ENG;Barrow-in-Furness;EGNL;BWF;;-3,2675;54,1286111
+EGNM;large_airport;Leeds Bradford Airport;681;EU;GB;GB-ENG;Leeds;EGNM;LBA;;-1,660570025;53,86589813
+EGNO;medium_airport;Warton Aerodrome;55;EU;GB;GB-ENG;Warton;EGNO;WRT;;-2,88306;53,745098
+EGNR;medium_airport;Hawarden Airport;45;EU;GB;GB-WLS;Hawarden;EGNR;CEG;;-2,977780104;53,17810059
+EGNS;medium_airport;Isle of Man Airport;52;EU;IM;IM-U-A;Castletown;EGNS;IOM;;-4,623889923;54,08330154
+EGNT;large_airport;Newcastle Airport;266;EU;GB;GB-ENG;Newcastle;EGNT;NCL;;-1,691669941;55,03749847
+EGNV;medium_airport;Durham Tees Valley Airport;120;EU;GB;GB-ENG;Durham;EGNV;MME;;-1,429409981;54,50920105
+EGNX;large_airport;East Midlands Airport;306;EU;GB;GB-ENG;Nottingham;EGNX;EMA;;-1,328060031;52,83110046
+EGOM;medium_airport;RAF Spadeadam;1066;EU;GB;GB-ENG;Spadeadam;EGOM;;;-2,549999952;55,04999924
+EGOS;medium_airport;RAF Shawbury;249;EU;GB;GB-ENG;Shawbury;EGOS;;;-2,668040037;52,7981987
+EGOV;medium_airport;Anglesey Airport;37;EU;GB;GB-WLS;Angelsey;EGOV;VLY;;-4,535339832;53,24810028
+EGPA;medium_airport;Kirkwall Airport;50;EU;GB;GB-SCT;Orkney Islands;EGPA;KOI;;-2,904999971;58,95780182
+EGPB;medium_airport;Sumburgh Airport;20;EU;GB;GB-SCT;Lerwick;EGPB;LSI;;-1,295560002;59,87889862
+EGPC;medium_airport;Wick Airport;126;EU;GB;GB-SCT;Wick;EGPC;WIC;;-3,093060017;58,45890045
+EGPD;large_airport;Aberdeen Dyce Airport;215;EU;GB;GB-SCT;Aberdeen;EGPD;ABZ;;-2,197779894;57,20190048
+EGPE;medium_airport;Inverness Airport;31;EU;GB;GB-SCT;Inverness;EGPE;INV;;-4,047500134;57,54249954
+EGPF;large_airport;Glasgow International Airport;26;EU;GB;GB-SCT;Glasgow;EGPF;GLA;;-4,43306;55,871899
+EGPH;large_airport;Edinburgh Airport;135;EU;GB;GB-SCT;Edinburgh;EGPH;EDI;;-3,372499943;55,95000076
+EGPI;medium_airport;Islay Airport;56;EU;GB;GB-SCT;Port Ellen;EGPI;ILY;;-6,256669998;55,68190002
+EGPK;medium_airport;Glasgow Prestwick Airport;65;EU;GB;GB-SCT;Glasgow;EGPK;PIK;;-4,586669922;55,50939941
+EGPL;medium_airport;Benbecula Airport;19;EU;GB;GB-SCT;Balivanich;EGPL;BEB;;-7,362780094;57,48109818
+EGPM;medium_airport;Scatsta Airport;81;EU;GB;GB-SCT;Shetland Islands;EGPM;SCS;;-1,296110034;60,43280029
+EGPN;medium_airport;Dundee Airport;17;EU;GB;GB-SCT;Dundee;EGPN;DND;;-3,02583003;56,45249939
+EGPO;medium_airport;Stornoway Airport;26;EU;GB;GB-SCT;Stornoway;EGPO;SYY;;-6,331110001;58,21559906
+EGPR;medium_airport;Barra Airport;5;EU;GB;GB-SCT;Eoligarry;EGPR;BRR;;-7,44306;57,0228
+EGPU;medium_airport;Tiree Airport;38;EU;GB;GB-SCT;Balemartine;EGPU;TRE;;-6,869170189;56,49919891
+EGQK;medium_airport;RAF Kinloss;22;EU;GB;GB-SCT;Kinloss;EGQK;FSS;;-3,560640097;57,6493988
+EGQL;medium_airport;RAF Leuchars;38;EU;GB;GB-SCT;St. Andrews;EGQL;ADX;;-2,868439913;56,3728981
+EGQS;medium_airport;RAF Lossiemouth;42;EU;GB;GB-SCT;Lossiemouth;EGQS;LMO;;-3,339169979;57,7052002
+EGSC;medium_airport;Cambridge Airport;47;EU;GB;GB-ENG;Cambridge;EGSC;CBG;;0,175;52,205002
+EGSH;large_airport;Norwich International Airport;117;EU;GB;GB-ENG;Norwich;EGSH;NWI;;1,282780051;52,67580032
+EGSS;large_airport;London Stansted Airport;348;EU;GB;GB-ENG;London;EGSS;STN;;0,234999999;51,88499832
+EGTC;medium_airport;Cranfield Airport;360;EU;GB;GB-ENG;Cranfield;EGTC;;;-0,616667;52,072201
+EGTE;large_airport;Exeter International Airport;102;EU;GB;GB-ENG;Exeter;EGTE;EXT;;-3,413889885;50,7344017
+EGTK;medium_airport;Oxford (Kidlington) Airport;270;EU;GB;GB-ENG;Kidlington;EGTK;OXF;;-1,320000052;51,8368988
+EGUB;medium_airport;RAF Benson;226;EU;GB;GB-ENG;Benson;EGUB;BEX;;-1,095829964;51,61640167
+EGUL;large_airport;RAF Lakenheath;32;EU;GB;GB-ENG;Lakenheath;EGUL;LKZ;;0,56099999;52,40930176
+EGUN;large_airport;RAF Mildenhall;33;EU;GB;GB-ENG;Mildenhall;EGUN;MHZ;;0,486405998;52,36190033
+EGUW;medium_airport;Wattisham Airfield;284;EU;GB;GB-ENG;Stowmarket;EGUW;;;0,956189;52,127451
+EGUY;medium_airport;RAF Wyton;135;EU;GB;GB-ENG;St. Ives;EGUY;QUY;;-0,107832998;52,35720062
+EGVA;large_airport;RAF Fairford;286;EU;GB;GB-ENG;Fairford;EGVA;FFD;;-1,790030003;51,68220139
+EGVN;large_airport;RAF Brize Norton;288;EU;GB;GB-ENG;Brize Norton;EGVN;BZZ;;-1,58362;51,75
+EGVO;medium_airport;RAF Odiham;405;EU;GB;GB-ENG;Odiham;EGVO;ODH;;-0,942825019;51,23410034
+EGWC;medium_airport;DCAE Cosford Air Base;272;EU;GB;GB-ENG;Cosford;EGWC;;;-2,30558;52,639999
+EGWU;medium_airport;RAF Northolt;124;EU;GB;GB-ENG;London;EGWU;NHT;;-0,418166995;51,5530014
+EGXC;medium_airport;RAF Coningsby;25;EU;GB;GB-ENG;Coningsby;EGXC;QCY;;-0,166014001;53,0929985
+EGXD;medium_airport;RAF Dishforth;117;EU;GB;GB-ENG;Dishforth;EGXD;;;-1,420250058;54,1371994
+EGXE;medium_airport;RAF Leeming Air Base;132;EU;GB;GB-ENG;Leeming;EGXE;;;-1,5354;54,2924
+EGXG;medium_airport;Leeds East Airport;29;EU;GB;GB-ENG;Church Fenton;EGCM;;;-1,1955;53,834301
+EGXH;medium_airport;RAF Honington;174;EU;GB;GB-ENG;Thetford;EGXH;BEQ;;0,772939026;52,34260178
+EGXP;medium_airport;RAF Scampton;202;EU;GB;GB-ENG;Scampton;EGXP;SQZ;;-0,550832987;53,30780029
+EGXT;medium_airport;RAF Wittering;273;EU;GB;GB-ENG;Wittering;EGXT;;;-0,476453;52,612598
+EGXU;medium_airport;RAF Linton-On-Ouse;53;EU;GB;GB-ENG;Linton-On-Ouse;EGXU;HRT;;-1,252750039;54,0489006
+EGXW;medium_airport;RAF Waddington;231;EU;GB;GB-ENG;Waddington;EGXW;WTN;;-0,523810983;53,16619873
+EGXZ;medium_airport;RAF Topcliffe;92;EU;GB;GB-ENG;Topcliffe;EGXZ;;;-1,382089973;54,20550156
+EGYD;medium_airport;RAF Cranwell;218;EU;GB;GB-ENG;Cranwell;EGYD;;;-0,483242005;53,03030014
+EGYE;medium_airport;RAF Barkston Heath;367;EU;GB;GB-ENG;Grantham;EGYE;;;-0,561625004;52,96220016
+EGYM;medium_airport;RAF Marham;75;EU;GB;GB-ENG;Marham;EGYM;KNF;;0,550692;52,648395
+EGYP;medium_airport;Mount Pleasant Airport;244;SA;FK;FK-U-A;Mount Pleasant;EGYP;MPN;;-58,44720078;-51,82279968
+EHAM;large_airport;Amsterdam Airport Schiphol;-11;EU;NL;NL-NH;Amsterdam;EHAM;AMS;;4,76389;52,308601
+EHBD;medium_airport;Budel Airfield Kempen;114;EU;NL;NL-NB;Weert;EHBD;;;5,60139;51,255299
+EHBK;medium_airport;Maastricht Aachen Airport;375;EU;NL;NL-LI;Maastricht;EHBK;MST;;5,77014;50,911701
+EHDL;medium_airport;Deelen Air Base;158;EU;NL;NL-GE;Arnhem;EHDL;;;5,87306;52,0606
+EHDP;medium_airport;De Peel Air Base;98;EU;NL;NL-LI;Venray;EHDP;;;5,855720043;51,51729965
+EHEH;large_airport;Eindhoven Airport;74;EU;NL;NL-NB;Eindhoven;EHEH;EIN;;5,374529839;51,45009995
+EHGG;medium_airport;Eelde Airport;17;EU;NL;NL-DR;Groningen;EHGG;GRQ;;6,579440117;53,11970139
+EHGR;medium_airport;Gilze Rijen Air Base;49;EU;NL;NL-NB;Breda;EHGR;GLZ;;4,931829929;51,56740189
+EHKD;medium_airport;De Kooy Airport;3;EU;NL;NL-NH;Den Helder;EHKD;DHR;;4,780620098;52,92340088
+EHLE;medium_airport;Lelystad Airport;-13;EU;NL;NL-FL;Lelystad;EHLE;LEY;;5,52722;52,4603
+EHLW;medium_airport;Leeuwarden Air Base;3;EU;NL;NL-FR;Leeuwarden;EHLW;LWR;;5,760560036;53,22859955
+EHRD;medium_airport;Rotterdam The Hague Airport;-15;EU;NL;NL-ZH;Rotterdam;EHRD;RTM;;4,43722;51,956902
+EHTW;medium_airport;Twente Airport;114;EU;NL;NL-OV;Enschede;EHTW;ENS;;6,889167;52,275833
+EHVK;medium_airport;Volkel Air Base;72;EU;NL;NL-NB;Uden;EHVK;;;5,7077778;51,657222
+EHWO;medium_airport;Woensdrecht Air Base;63;EU;NL;NL-NB;Bergen Op Zoom;EHWO;WOE;;4,34203;51,4491
+EICK;large_airport;Cork Airport;502;EU;IE;IE-C;Cork;EICK;ORK;;-8,491109848;51,84130096
+EICM;medium_airport;Galway Airport;81;EU;IE;IE-G;Galway;EICM;GWY;;-8,941590309;53,30020142
+EIDL;medium_airport;Donegal Airport;30;EU;IE;IE-DL;Donegal;EIDL;CFN;;-8,340999603;55,0442009
+EIDW;large_airport;Dublin Airport;242;EU;IE;IE-D;Dublin;EIDW;DUB;;-6,27007;53,421299
+EIKN;medium_airport;Ireland West Knock Airport;665;EU;IE;IE-MO;Charleston;EIKN;NOC;;-8,818490028;53,91030121
+EIKY;medium_airport;Kerry Airport;112;EU;IE;IE-KY;Killarney;EIKY;KIR;;-9,523779869;52,18090057
+EIME;medium_airport;Casement Air Base;319;EU;IE;IE-D;Baldonnel;EIME;;;-6,451330185;53,30170059
+EINN;large_airport;Shannon Airport;46;EU;IE;IE-CE;Shannon;EINN;SNN;;-8,92482;52,702
+EISG;medium_airport;Sligo Airport;11;EU;IE;IE-SO;Sligo;EISG;SXL;;-8,599209785;54,28020096
+EIWF;medium_airport;Waterford Airport;119;EU;IE;IE-WD;Waterford;EIWF;WAT;;-7,086959839;52,18719864
+EIWT;medium_airport;Weston Airport;150;EU;IE;IE-KE;Leixlip;EIWT;;;-6,48611021;53,35219955
+EKAH;medium_airport;Aarhus Airport;82;EU;DK;DK-82;Aarhus;EKAH;AAR;;10,61900043;56,29999924
+EKBI;large_airport;Billund Airport;247;EU;DK;DK-83;Billund;EKBI;BLL;;9,151780128;55,74029922
+EKCH;large_airport;Copenhagen Kastrup Airport;17;EU;DK;DK-84;Copenhagen;EKCH;CPH;;12,65600014;55,61790085
+EKEB;medium_airport;Esbjerg Airport;97;EU;DK;DK-83;Esbjerg;EKEB;EBJ;;8,5534;55,525902
+EKKA;medium_airport;Karup Airport;170;EU;DK;DK-82;Karup;EKKA;KRP;;9,124629974;56,29750061
+EKMB;medium_airport;Lolland Falster Maribo Airport;16;EU;DK;DK-85;Lolland Falster / Maribo;EKMB;MRW;;11,4401;54,699299
+EKOD;medium_airport;Odense Airport;56;EU;DK;DK-83;Odense;EKOD;ODE;;10,33090019;55,47669983
+EKRK;medium_airport;Copenhagen Roskilde Airport;146;EU;DK;DK-85;Copenhagen;EKRK;RKE;;12,13140011;55,58560181
+EKRN;medium_airport;Bornholm Airport;52;EU;DK;DK-84;RÃ¸nne;EKRN;RNN;;14,75959969;55,06330109
+EKSB;medium_airport;SÃ¸nderborg Airport;24;EU;DK;DK-83;SÃ¸nderborg;EKSB;SGD;;9,791729927;54,96440125
+EKSN;medium_airport;Sindal Airport;92;EU;DK;DK-81;Sindal;EKSN;CNL;;10,2294;57,503502
+EKSP;medium_airport;Skrydstrup Air Base;141;EU;DK;DK-83;Vojens;EKSP;SKS;;9,26702;55,221048
+EKSV;medium_airport;Skive Airport;74;EU;DK;DK-82;Skive;EKSV;SQW;;9,172980309;56,55020142
+EKTS;medium_airport;Thisted Airport;23;EU;DK;DK-81;Thisted;EKTS;TED;;8,705220222;57,06880188
+EKVD;medium_airport;Kolding Vamdrup Airfield;143;EU;DK;DK-83;Kolding / Vamdrup;EKVD;;;9,33092;55,436298
+EKVG;medium_airport;Vagar Airport;280;EU;FO;FO-U-A;Vagar;EKVG;FAE;;-7,277219772;62,06359863
+EKVJ;medium_airport;Stauning Airport;17;EU;DK;DK-82;Skjern / RingkÃ¸bing;EKVJ;STA;;8,353910446;55,99010086
+EKYT;large_airport;Aalborg Airport;10;EU;DK;DK-81;Aalborg;EKYT;AAL;;9,849243164;57,09275891
+ELLX;large_airport;Luxembourg-Findel International Airport;1234;EU;LU;LU-L;Luxembourg;ELLX;LUX;;6,2044444;49,6233333
+ENAL;medium_airport;Ãlesund Airport;69;EU;NO;NO-15;Ãlesund;ENAL;AES;;6,119699955;62,5625
+ENAN;medium_airport;AndÃ¸ya Airport;43;EU;NO;NO-18;Andenes;ENAN;ANX;;16,14419937;69,29250336
+ENAT;medium_airport;Alta Airport;9;EU;NO;NO-20;Alta;ENAT;ALF;;23,37170029;69,97609711
+ENBN;medium_airport;BrÃ¸nnÃ¸ysund Airport;25;EU;NO;NO-18;BrÃ¸nnÃ¸y;ENBN;BNN;;12,21749973;65,46109772
+ENBO;large_airport;BodÃ¸ Airport;42;EU;NO;NO-18;BodÃ¸;ENBO;BOO;;14,36530018;67,26920319
+ENBR;large_airport;Bergen Airport Flesland;170;EU;NO;NO-12;Bergen;ENBR;BGO;;5,218140125;60,29339981
+ENBS;medium_airport;BÃ¥tsfjord Airport;490;EU;NO;NO-20;BÃ¥tsfjord;ENBS;BJF;;29,69140053;70,60050201
+ENBV;medium_airport;BerlevÃ¥g Airport;42;EU;NO;NO-20;BerlevÃ¥g;ENBV;BVG;;29,034201;70,871399
+ENCN;medium_airport;Kristiansand Airport;57;EU;NO;NO-10;Kjevik;ENCN;KRS;;8,08537;58,204201
+ENDU;medium_airport;Bardufoss Airport;252;EU;NO;NO-19;MÃ¥lselv;ENDU;BDU;;18,54039955;69,05580139
+ENEN;medium_airport;EngelÃ¸y Airport;10;EU;NO;NO-18;EngelÃ¸y;ENEN;;;14,9925;67,967222
+ENEV;medium_airport;Harstad/Narvik Airport, Evenes;84;EU;NO;NO-18;Evenes;ENEV;EVE;;16,67810059;68,49130249
+ENFG;medium_airport;Leirin Airport;2697;EU;NO;NO-05;;ENFG;VDB;;9,288060188;61,0155983
+ENFL;medium_airport;FlorÃ¸ Airport;37;EU;NO;NO-14;FlorÃ¸;ENFL;FRO;;5,024720192;61,58359909
+ENGM;large_airport;Oslo Gardermoen Airport;681;EU;NO;NO-02;Oslo;ENGM;OSL;;11,10039997;60,19390106
+ENHD;medium_airport;Haugesund Airport;86;EU;NO;NO-11;KarmÃ¸y;ENHD;HAU;;5,208360195;59,34529877
+ENHF;medium_airport;Hammerfest Airport;266;EU;NO;NO-20;Hammerfest;ENHF;HFT;;23,66860008;70,67970276
+ENHV;medium_airport;Valan Airport;44;EU;NO;NO-20;HonningsvÃ¥g;ENHV;HVG;;25,98360062;71,00969696
+ENKB;medium_airport;Kristiansund Airport (Kvernberget);204;EU;NO;NO-15;Kvernberget;ENKB;KSU;;7,824520111;63,11180115
+ENKR;medium_airport;Kirkenes Airport (HÃ¸ybuktmoen);283;EU;NO;NO-20;Kirkenes;ENKR;KKN;;29,8913002;69,72579956
+ENLK;medium_airport;Leknes Airport;78;EU;NO;NO-18;Leknes;ENLK;LKN;;13,6093998;68,15249634
+ENMH;medium_airport;Mehamn Airport;39;EU;NO;NO-20;Mehamn;ENMH;MEH;;27,82670021;71,02970123
+ENML;medium_airport;Molde Airport;10;EU;NO;NO-15;ÃrÃ¸;ENML;MOL;;7,262499809;62,74470139
+ENMS;medium_airport;MosjÃ¸en Airport (KjÃ¦rstad);237;EU;NO;NO-18;;ENMS;MJF;;13,21490002;65,78399658
+ENNA;medium_airport;Banak Airport;25;EU;NO;NO-20;Lakselv;ENNA;LKL;;24,9734993;70,06880188
+ENNK;medium_airport;Narvik Framnes Airport;95;EU;NO;NO-18;Narvik;ENNK;NVK;;17,38669968;68,43689728
+ENNO;medium_airport;Notodden Airport;63;EU;NO;NO-08;Notodden;ENNO;NTB;;9,21222;59,565701
+ENOL;medium_airport;Ãrland Airport;28;EU;NO;NO-16;Ãrland;ENOL;OLA;;9,604000092;63,69889832
+ENOV;medium_airport;Ãrsta-Volda Airport, Hovden;243;EU;NO;NO-15;Ãrsta;ENOV;HOV;;6,074100018;62,18000031
+ENRA;medium_airport;Mo i Rana Airport, RÃ¸ssvoll;229;EU;NO;NO-18;Mo i Rana;ENRA;MQN;;14,30140018;66,36389923
+ENRM;medium_airport;RÃ¸rvik Airport, Ryum;14;EU;NO;NO-17;RÃ¸rvik;ENRM;RVK;;11,14610004;64,83830261
+ENRO;medium_airport;RÃ¸ros Airport;2054;EU;NO;NO-16;RÃ¸ros;ENRO;RRS;;11,34230042;62,57839966
+ENRY;medium_airport;Moss Airport, Rygge;174;EU;NO;NO-01;Oslo;ENRY;RYG;;10,785439;59,378817
+ENSB;medium_airport;Svalbard Airport, Longyear;88;EU;NO;NO-21;Longyearbyen;ENSB;LYR;;15,46560001;78,24610138
+ENSH;medium_airport;SvolvÃ¦r Helle Airport;27;EU;NO;NO-18;SvolvÃ¦r;ENSH;SVJ;;14,66919994;68,24330139
+ENSK;medium_airport;Stokmarknes Skagen Airport;11;EU;NO;NO-18;Hadsel;ENSK;SKN;;15,03341675;68,5788269
+ENSN;medium_airport;Skien Airport;463;EU;NO;NO-08;Geiteryggen;ENSN;SKE;;9,566940308;59,18500137
+ENSO;medium_airport;Stord Airport;160;EU;NO;NO-12;Leirvik;ENSO;SRP;;5,340849876;59,79190063
+ENSR;medium_airport;SÃ¸rkjosen Airport;16;EU;NO;NO-19;SÃ¸rkjosen;ENSR;SOJ;;20,95940018;69,78679657
+ENSS;medium_airport;VardÃ¸ Airport, Svartnes;42;EU;NO;NO-20;VardÃ¸;ENSS;VAW;;31,04490089;70,35540009
+ENST;medium_airport;SandnessjÃ¸en Airport (Stokka);56;EU;NO;NO-18;Alstahaug;ENST;SSJ;;12,46889973;65,95680237
+ENTC;large_airport;TromsÃ¸ Airport;31;EU;NO;NO-19;TromsÃ¸;ENTC;TOS;;18,91889954;69,6832962
+ENTO;medium_airport;Sandefjord Airport, Torp;286;EU;NO;NO-07;Torp;ENTO;TRF;;10,25860024;59,18669891
+ENVA;large_airport;Trondheim Airport VÃ¦rnes;56;EU;NO;NO-17;Trondheim;ENVA;TRD;;10,9239998;63,4578018
+ENVD;medium_airport;VadsÃ¸ Airport;127;EU;NO;NO-20;VadsÃ¸;ENVD;VDS;;29,84469986;70,06529999
+ENZV;large_airport;Stavanger Airport Sola;29;EU;NO;NO-11;Stavanger;ENZV;SVG;;5,63778019;58,87670135
+EPBP;medium_airport;BiaÅa Podlaska Airfield;485;EU;PL;PL-LU;BiaÅa Podlaska;EPBP;BXP;;23,1325278;52,00078
+EPBY;medium_airport;Bydgoszcz Ignacy Jan Paderewski Airport;235;EU;PL;PL-KP;Bydgoszcz;EPBY;BZG;;17,97769928;53,09680176
+EPCE;medium_airport;Cewice Air Base;495;EU;PL;PL-PM;LÄbork;EPCE;;;17,7633;54,416
+EPDE;medium_airport;Deblin Military Air Base;392;EU;PL;PL-LU;DÄblin;EPDE;;;21,89360046;51,55139923
+EPGD;large_airport;GdaÅsk Lech WaÅÄsa Airport;489;EU;PL;PL-PM;GdaÅsk;EPGD;GDN;;18,46619987;54,37760162
+EPIR;medium_airport;Inowroclaw Military Air Base;259;EU;PL;PL-KP;;EPIR;;;18,33060074;52,82939911
+EPKK;large_airport;KrakÃ³w John Paul II International Airport;791;EU;PL;PL-MA;KrakÃ³w;EPKK;KRK;;19,7848;50,077702
+EPKS;medium_airport;Krzesiny Military Air Base;265;EU;PL;PL-WP;;EPKS;;;16,96640015;52,33169937
+EPKT;large_airport;Katowice International Airport;995;EU;PL;PL-SL;Katowice;EPKT;KTW;;19,08;50,4743
+EPLK;medium_airport;Lask Military Air Base;633;EU;PL;PL-LD;;EPLK;;;19,17910004;51,55170059
+EPLL;medium_airport;ÅÃ³dÅº WÅadysÅaw Reymont Airport;604;EU;PL;PL-LD;ÅÃ³dÅº;EPLL;LCJ;;19,3980999;51,72190094
+EPLY;medium_airport;Leczyca Military Air Base;377;EU;PL;PL-LD;Leczyca;EPLY;;;19,14559937;52,00469971
+EPMB;medium_airport;Malbork Military Air Base;16;EU;PL;PL-PM;;EPMB;;;19,13419914;54,02690125
+EPMI;medium_airport;Miroslawiec Military Air Base;459;EU;PL;PL-ZP;MirosÅawiec;EPMI;;;16,08279991;53,39509964
+EPMM;medium_airport;Minsk Mazowiecki Military Air Base;604;EU;PL;PL-MZ;;EPMM;;;21,65589905;52,19549942
+EPMO;large_airport;Modlin Airport;341;EU;PL;PL-MZ;Warsaw;EPMO;WMI;;20,6518;52,451099
+EPOK;medium_airport;Oksywie Military Air Base;144;EU;PL;PL-PM;Gdynia;EPOK;QYD;;18,51720047;54,57970047
+EPPO;large_airport;PoznaÅ-Åawica Airport;308;EU;PL;PL-WP;PoznaÅ;EPPO;POZ;;16,82629967;52,42100143
+EPPW;medium_airport;Powidz Military Air Base;371;EU;PL;PL-WP;;EPPW;;;17,853901;52,379398
+EPRA;medium_airport;Radom Airport;610;EU;PL;PL-MZ;Radom;EPRA;RDO;;21,21330071;51,3891983
+EPRZ;medium_airport;RzeszÃ³w-Jasionka Airport;693;EU;PL;PL-PK;RzeszÃ³w;EPRZ;RZE;;22,018999;50,110001
+EPSC;medium_airport;"Szczecin-GoleniÃ³w ""SolidarnoÅÄ"" Airport";154;EU;PL;PL-ZP;Goleniow;EPSC;SZZ;;14,90219975;53,58470154
+EPSN;medium_airport;Swidwin Military Air Base;385;EU;PL;PL-ZP;;EPSN;;;15,82629967;53,79059982
+EPSY;medium_airport;Olsztyn-Mazury Airport;463;EU;PL;PL-WN;Olsztyn;EPSY;SZY;;20,9377;53,481899
+EPTM;medium_airport;Tomaszow Mazowiecki Military Air Base;571;EU;PL;PL-LD;TomaszÃ³w Mazowiecki;EPTM;;;20,0977993;51,58440018
+EPWA;large_airport;Warsaw Chopin Airport;362;EU;PL;PL-MZ;Warsaw;EPWA;WAW;;20,96710014;52,16569901
+EPWR;large_airport;Copernicus WrocÅaw Airport;404;EU;PL;PL-DS;WrocÅaw;EPWR;WRO;;16,88579941;51,10269928
+EPZG;medium_airport;Zielona GÃ³ra-Babimost Airport;194;EU;PL;PL-LB;Babimost;EPZG;IEG;;15,7986002;52,13850021
+ESCF;medium_airport;Malmen Air Base;308;EU;SE;SE-E;LinkÃ¶ping;ESCF;;;15,52569962;58,40230179
+ESDF;medium_airport;Ronneby Airport;191;EU;SE;SE-K;;ESDF;RNB;;15,26500034;56,26670074
+ESFR;medium_airport;RÃ¥da Air Base;230;EU;SE;SE-Q;RÃ¥da;ESFR;;;13,05319977;58,49810028
+ESGG;large_airport;Gothenburg-Landvetter Airport;506;EU;SE;SE-Q;Gothenburg;ESGG;GOT;;12,27980042;57,66279984
+ESGJ;medium_airport;JÃ¶nkÃ¶ping Airport;741;EU;SE;SE-F;JÃ¶nkÃ¶ping;ESGJ;JKG;;14,06869984;57,75759888
+ESGP;medium_airport;Gothenburg City Airport;59;EU;SE;SE-Q;Gothenburg;ESGP;GSE;;11,8704;57,7747
+ESGR;medium_airport;SkÃ¶vde Airport;324;EU;SE;SE-Q;SkÃ¶vde;ESGR;KVB;;13,97270012;58,45640182
+ESGT;medium_airport;TrollhÃ¤ttan-VÃ¤nersborg Airport;137;EU;SE;SE-Q;TrollhÃ¤ttan;ESGT;THN;;12,34500027;58,31809998
+ESIB;medium_airport;SÃ¥tenÃ¤s Air Base;181;EU;SE;SE-Q;SÃ¥tenÃ¤s;ESIB;;;12,71440029;58,42639923
+ESKK;medium_airport;Karlskoga Airport;400;EU;SE;SE-T;;ESKK;KSK;;14,49590015;59,34590149
+ESKM;medium_airport;Mora Airport;634;EU;SE;SE-W;Mora;ESKM;MXX;;14,5114;60,957901
+ESKN;medium_airport;Stockholm Skavsta Airport;140;EU;SE;SE-D;Stockholm / NykÃ¶ping;ESKN;NYO;;16,91220093;58,78860092
+ESKX;medium_airport;BjÃ¶rkvik Air Base;;EU;SE;SE-D;BjÃ¶rkvik;ESKX;;;16,57119942;58,79079819
+ESMK;medium_airport;Kristianstad Airport;76;EU;SE;SE-M;Kristianstad;ESMK;KID;;14,08549976;55,92169952
+ESMQ;medium_airport;Kalmar Airport;17;EU;SE;SE-H;;ESMQ;KLR;;16,28759956;56,6855011
+ESMS;large_airport;MalmÃ¶ Sturup Airport;236;EU;SE;SE-M;MalmÃ¶;ESMS;MMX;;13,37619781;55,53630536
+ESMT;medium_airport;Halmstad Airport;101;EU;SE;SE-N;Halmstad;ESMT;HAD;;12,82019997;56,69110107
+ESMX;medium_airport;VÃ¤xjÃ¶ Kronoberg Airport;610;EU;SE;SE-G;VÃ¤xjÃ¶;ESMX;VXO;;14,72799969;56,92910004
+ESND;medium_airport;Sveg Airport;1178;EU;SE;SE-Z;;ESND;EVG;;14,4229002;62,04779816
+ESNG;medium_airport;GÃ¤llivare Airport;1027;EU;SE;SE-BD;GÃ¤llivare;ESNG;GEV;;20,81459999;67,13240051
+ESNK;medium_airport;Kramfors SollefteÃ¥ Airport;34;EU;SE;SE-Y;Kramfors / SollefteÃ¥;ESNK;KRF;;17,76889992;63,04859924
+ESNL;medium_airport;Lycksele Airport;705;EU;SE;SE-AC;;ESNL;LYC;;18,71619987;64,5483017
+ESNN;medium_airport;Sundsvall-HÃ¤rnÃ¶sand Airport;16;EU;SE;SE-Y;Sundsvall/ HÃ¤rnÃ¶sand;ESNN;SDL;;17,44389915;62,52809906
+ESNO;medium_airport;ÃrnskÃ¶ldsvik Airport;354;EU;SE;SE-Y;ÃrnskÃ¶ldsvik;ESNO;OER;;18,98999977;63,40829849
+ESNQ;medium_airport;Kiruna Airport;1508;EU;SE;SE-BD;Kiruna;ESNQ;KRN;;20,33679962;67,8219986
+ESNS;medium_airport;SkellefteÃ¥ Airport;157;EU;SE;SE-AC;SkellefteÃ¥;ESNS;SFT;;21,07690048;64,62480164
+ESNU;medium_airport;UmeÃ¥ Airport;24;EU;SE;SE-AC;UmeÃ¥;ESNU;UME;;20,28280067;63,79180145
+ESNV;medium_airport;Vilhelmina Airport;1140;EU;SE;SE-AC;;ESNV;VHM;;16,83359909;64,57910156
+ESNX;medium_airport;Arvidsjaur Airport;1245;EU;SE;SE-BD;Arvidsjaur;ESNX;AJR;;19,28190041;65,59030151
+ESNY;medium_airport;SÃ¶derhamn Airport;88;EU;SE;SE-X;SÃ¶derhamn;ESNY;SOO;;17,09910011;61,26150131
+ESNZ;medium_airport;Ãre Ãstersund Airport;1233;EU;SE;SE-Z;Ãstersund;ESNZ;OSD;;14,50030041;63,19440079
+ESOE;medium_airport;Ãrebro Airport;188;EU;SE;SE-T;Ãrebro;ESOE;ORB;;15,03800011;59,22370148
+ESOH;medium_airport;Hagfors Airport;474;EU;SE;SE-S;;ESOH;HFS;;13,57890034;60,02009964
+ESOK;medium_airport;Karlstad Airport;352;EU;SE;SE-S;Karlstad;ESOK;KSD;;13,33740044;59,44469833
+ESOW;medium_airport;Stockholm VÃ¤sterÃ¥s Airport;21;EU;SE;SE-U;Stockholm / VÃ¤sterÃ¥s;ESOW;VST;;16,63360023;59,58940125
+ESPA;large_airport;LuleÃ¥ Airport;65;EU;SE;SE-BD;LuleÃ¥;ESPA;LLA;;22,12199974;65,54380035
+ESSA;large_airport;Stockholm-Arlanda Airport;137;EU;SE;SE-AB;Stockholm;ESSA;ARN;;17,91860008;59,65190125
+ESSB;medium_airport;Stockholm-Bromma Airport;47;EU;SE;SE-AB;Stockholm;ESSB;BMA;;17,94169998;59,35440063
+ESSD;medium_airport;Borlange Airport;503;EU;SE;SE-W;;ESSD;BLE;;15,51519966;60,42200089
+ESSK;medium_airport;GÃ¤vle Sandviken Airport;224;EU;SE;SE-X;GÃ¤vle / Sandviken;ESSK;GVX;;16,95140076;60,59329987
+ESSL;medium_airport;LinkÃ¶ping City Airport;172;EU;SE;SE-E;LinkÃ¶ping;ESSL;LPI;;15,68050003;58,40620041
+ESSP;medium_airport;NorrkÃ¶ping Airport;32;EU;SE;SE-E;NorrkÃ¶ping;ESSP;NRK;;16,25060081;58,5862999
+ESST;medium_airport;Torsby Airport;393;EU;SE;SE-S;;ESST;TYF;;12,99129963;60,1576004
+ESSU;medium_airport;Eskilstuna Airport;139;EU;SE;SE-D;Eskilstuna;ESSU;EKT;;16,70840073;59,35110092
+ESSV;medium_airport;Visby Airport;164;EU;SE;SE-I;Visby;ESSV;VBY;;18,34620094;57,66279984
+ESTA;medium_airport;Ãngelholm-Helsingborg Airport;68;EU;SE;SE-M;Ãngelholm;ESTA;AGH;;12,84710026;56,29610062
+ESTL;medium_airport;Ljungbyhed Airport;140;EU;SE;SE-M;Ljungbyhed;ESTL;;;13,21249962;56,08280182
+ESUD;medium_airport;Storuman Airport;915;EU;SE;SE-AC;;ESUD;SQO;;17,69659996;64,96089935
+ESUP;medium_airport;Pajala Airport;542;EU;SE;SE-BD;;ESUP;PJA;;23,06889915;67,24559784
+ESUT;medium_airport;Hemavan Airport;1503;EU;SE;SE-AC;Hemavan;ESUT;HMV;;15,0828;65,806099
+ETAD;medium_airport;Spangdahlem Air Base;1197;EU;DE;DE-RP;Trier;ETAD;SPM;;6,692500114;49,97269821
+ETAR;large_airport;Ramstein Air Base;776;EU;DE;DE-RP;Ramstein;ETAR;RMS;;7,600279808;49,43690109
+ETHB;medium_airport;BÃ¼ckeburg Air Base;230;EU;DE;DE-NI;;ETHB;;;9,08217;52,2785
+ETHC;medium_airport;Celle Army Airfield;129;EU;DE;DE-NI;;ETHC;;;10,0221;52,591202
+ETHF;medium_airport;Fritzlar Army Airfield;1345;EU;DE;DE-HE;Fritzlar;ETHF;FRZ;;9,286;51,1146
+ETHL;medium_airport;Laupheim Air Base;1766;EU;DE;DE-BW;;ETHL;;;9,91002;48,220299
+ETHM;medium_airport;Mendig Airfield;597;EU;DE;DE-RP;;EDRE;;;7,31533;50,366001
+ETHN;medium_airport;Niederstetten Army Air Base;1339;EU;DE;DE-BW;Niederstetten;ETHN;;;9,958889;49,391945
+ETHS;medium_airport;Fassberg Air Base;245;EU;DE;DE-NI;;ETHS;;;10,185827;52,919399
+ETIC;medium_airport;Grafenwohr Army Air Field;1363;EU;DE;DE-BY;;ETIC;;;11,94019985;49,69869995
+ETIH;medium_airport;Hohenfels Army Air Field;1455;EU;DE;DE-BY;;ETIH;;;11,83609962;49,2181015
+ETMN;medium_airport;Nordholz Naval Airbase;74;EU;DE;DE-NI;Cuxhaven;ETMN;FCN;;8,658499718;53,7677002
+ETND;medium_airport;Diepholz Air Base;128;EU;DE;DE-NI;Diepholz;ETND;;;8,342222;52,585556
+ETNG;medium_airport;Geilenkirchen Air Base;296;EU;DE;DE-NW;;ETNG;GKE;;6,04242;50,9608
+ETNH;medium_airport;Hohn Air Base;39;EU;DE;DE-SH;;ETNH;;;9,53817;54,312199
+ETNL;medium_airport;Rostock-Laage Airport;138;EU;DE;DE-MV;Rostock;ETNL;RLG;;12,27830029;53,91820145
+ETNN;medium_airport;NÃ¶rvenich Air Base;386;EU;DE;DE-NW;;ETNN;;;6,65817;50,8312
+ETNS;medium_airport;Schleswig Air Base;70;EU;DE;DE-SH;Jagel;ETNS;WBG;;9,51633;54,459301
+ETNT;medium_airport;Wittmundhafen Air Base;26;EU;DE;DE-NI;;ETNT;;;7,66733;53,547798
+ETNW;medium_airport;Wunstorf Air Base;187;EU;DE;DE-NI;;ETNW;;;9,42717;52,457298
+ETOU;medium_airport;Wiesbaden Army Airfield;461;EU;DE;DE-HE;Wiesbaden;ETOU;WIE;;8,325400352;50,04980087
+ETSB;medium_airport;BÃ¼chel Air Base;1568;EU;DE;DE-RP;;ETSB;;;7,063330173;50,17380142
+ETSH;medium_airport;Holzdorf Air Base;265;EU;DE;DE-BR;;ETSH;;;13,1677;51,767799
+ETSI;medium_airport;Ingolstadt Manching Airport;1202;EU;DE;DE-BY;Manching;ETSI;IGS;;11,5340004;48,71569824
+ETSL;medium_airport;Lechfeld Air Base;1822;EU;DE;DE-BY;Lagerlechfeld;ETSL;;;10,8612;48,185504
+ETSN;medium_airport;Neuburg AFB;1249;EU;DE;DE-BY;Neuburg (Donau);ETSN;;;11,2115;48,710999
+EVDA;medium_airport;Daugavpils Intrenational Airport;398;EU;LV;LV-DA;Daugavpils;EVDA;DGP;;26,66500092;55,94472122
+EVKA;medium_airport;JÄkabpils Air Base;289;EU;LV;LV-JK;JÄkabpils;EVKA;;;25,8925;56,534698
+EVLA;medium_airport;LiepÄja International Airport;16;EU;LV;LV-LE;LiepÄja;EVLA;LPX;;21,09690094;56,51750183
+EVRA;large_airport;Riga International Airport;36;EU;LV;LV-RIX;Riga;EVRA;RIX;;23,97109985;56,92359924
+EVTA;medium_airport;JÅ«rmala Airport;220;EU;LV;LV-TU;Tukums;EVJA;;;23,2239;56,9422
+EVVA;medium_airport;Ventspils International Airport;19;EU;LV;LV-VEN;Ventspils;EVVA;VNT;;21,5442009;57,35779953
+EYKA;medium_airport;Kaunas International Airport;256;EU;LT;LT-KU;Kaunas;EYKA;KUN;;24,08480072;54,96390152
+EYKD;medium_airport;KÄdainiai Air Base;171;EU;LT;LT-KU;KÄdainiai;EYKD;;;23,95639992;55,31169891
+EYPA;medium_airport;Palanga International Airport;33;EU;LT;LT-KL;Palanga;EYPA;PLQ;;21,09390068;55,97320175
+EYPP;medium_airport;PanevÄÅ¾ys Air Base;197;EU;LT;LT-PN;PanevÄÅ¾ys;EYPP;PNV;;24,46080017;55,72940063
+EYSA;medium_airport;Å iauliai International Airport;443;EU;LT;LT-SA;Å iauliai;EYSA;SQQ;;23,39500046;55,89390182
+EYSB;medium_airport;Barysiai Airfield;270;EU;LT;LT-SA;Å iauliai;EYSB;;;23,5581;56,070599
+EYVI;large_airport;Vilnius International Airport;648;EU;LT;LT-VL;Vilnius;EYVI;VNO;;25,285801;54,634102
+LAKU;medium_airport;KukÃ«s Airport;1120;EU;AL;AL-07;KukÃ«s;LAKU;;;20,41589928;42,03369904
+LAKV;medium_airport;KuÃ§ovÃ« Air Base;135;EU;AL;AL-01;KuÃ§ovÃ«;LAKV;;;19,90189934;40,77190018
+LATI;large_airport;Tirana International Airport Mother Teresa;126;EU;AL;AL-11;Tirana;LATI;TIA;;19,72060013;41,41469955
+LAVL;medium_airport;VlorÃ« Air Base;3;EU;AL;AL-12;VlorÃ«;LAVL;;;19,4741993;40,47610092
+LBBG;large_airport;Burgas Airport;135;EU;BG;BG-02;Burgas;LBBG;BOJ;;27,51519966;42,56959915
+LBGO;medium_airport;Gorna Oryahovitsa Airport;285;EU;BG;BG-04;Gorna Oryahovitsa;LBGO;GOZ;;25,71290016;43,15140152
+LBPD;medium_airport;Plovdiv International Airport;597;EU;BG;BG-16;Plovdiv;LBPD;PDV;;24,8508;42,067799
+LBPG;medium_airport;Graf Ignatievo Air Base;190;EU;BG;BG-16;Graf Ignatievo;LBPG;;;24,7140007;42,29040146
+LBPL;medium_airport;Dolna Mitropoliya Air Base;330;EU;BG;BG-15;Dolna Mitropoliya;LBPL;;;24,5028;43,451401
+LBSF;large_airport;Sofia Airport;1742;EU;BG;BG-23;Sofia;LBSF;SOF;;23,41143608;42,69669342
+LBWB;medium_airport;Balchik Air Base;660;EU;BG;BG-03;Balchik;LBWB;;;28,18129921;43,42380142
+LBWN;large_airport;Varna Airport;230;EU;BG;BG-03;Varna;LBWN;VAR;;27,8251;43,232101
+LCEN;medium_airport;Ercan International Airport;404;AS;CY;CY-02;Nicosia;LCEN;ECN;;33,49610138;35,15470123
+LCLK;large_airport;Larnaca International Airport;8;AS;CY;CY-04;Larnarca;LCLK;LCA;;33,62490082;34,87509918
+LCPH;large_airport;Paphos International Airport;41;AS;CY;CY-06;Paphos;LCPH;PFO;;32,4856987;34,7179985
+LCRA;large_airport;RAF Akrotiri;76;EU;GB;GB-U-A;Akrotiri;LCRA;AKT;;32,9879;34,590401
+LDDU;medium_airport;Dubrovnik Airport;527;EU;HR;HR-19;Dubrovnik;LDDU;DBV;;18,26819992;42,56140137
+LDOS;medium_airport;Osijek Airport;290;EU;HR;HR-14;Osijek;LDOS;OSI;;18,81019974;45,46269989
+LDPL;medium_airport;Pula Airport;274;EU;HR;HR-18;Pula;LDPL;PUY;;13,9222002;44,89350128
+LDRI;medium_airport;Rijeka Airport;278;EU;HR;HR-08;Rijeka;LDRI;RJK;;14,5703001;45,21689987
+LDSB;medium_airport;Bol Airport;1776;EU;HR;HR-17;BraÄ Island;LDSB;BWK;;16,67970085;43,28570175
+LDSP;medium_airport;Split Airport;79;EU;HR;HR-17;Split;LDSP;SPU;;16,29800034;43,53889847
+LDZA;large_airport;Zagreb Airport;353;EU;HR;HR-21;Zagreb;LDZA;ZAG;;16,06879997;45,74290085
+LDZD;medium_airport;Zadar Airport;289;EU;HR;HR-13;Zemunik (Zadar);LDZD;ZAD;;15,3467;44,108299
+LEAB;medium_airport;Albacete-Los Llanos Airport;2302;EU;ES;ES-CM;Albacete;LEAB;ABC;;-1,863520026;38,94850159
+LEAL;large_airport;Alicante International Airport;142;EU;ES;ES-V;Alicante;LEAL;ALC;;-0,558156013;38,28219986
+LEAM;medium_airport;AlmerÃ­a International Airport;70;EU;ES;ES-AN;AlmerÃ­a;LEAM;LEI;;-2,370100021;36,84389877
+LEAS;medium_airport;Asturias Airport;416;EU;ES;ES-O;RanÃ³n;LEAS;OVD;;-6,034619808;43,56359863
+LEBA;medium_airport;CÃ³rdoba Airport;297;EU;ES;ES-AN;CÃ³rdoba;LEBA;ODB;;-4,848879814;37,84199905
+LEBB;medium_airport;Bilbao Airport;138;EU;ES;ES-PV;Bilbao;LEBB;BIO;;-2,910609961;43,30110168
+LEBG;medium_airport;Burgos Airport;2945;EU;ES;ES-CL;Burgos;LEBG;RGS;;-3,62076;42,357601
+LEBL;large_airport;Barcelona International Airport;12;EU;ES;ES-CT;Barcelona;LEBL;BCN;;2,07846;41,2971
+LEBZ;medium_airport;Badajoz Airport;609;EU;ES;ES-EX;Badajoz;LEBZ;BJZ;;-6,82133007;38,8913002
+LECH;medium_airport;CastellÃ³n-Costa Azahar Airport;1145;EU;ES;ES-CS;CastellÃ³n de la Plana;LECH;CDT;;0,073333;40,213889
+LECO;medium_airport;A CoruÃ±a Airport;326;EU;ES;ES-GA;Culleredo;LECO;LCG;;-8,37726;43,302101
+LECU;medium_airport;Cuatro Vientos Airport;2269;EU;ES;ES-M;Madrid;LECU;ECV;;-3,78514;40,370701
+LEDA;medium_airport;Lleida-Alguaire Airport;1152;EU;ES;ES-CT;Lleida;LEDA;ILD;;0,535023;41,728185
+LEGA;medium_airport;Armilla Air Base;2297;EU;ES;ES-AN;Armilla;LEGA;;;-3,63568997;37,1332016
+LEGE;medium_airport;Girona Airport;468;EU;ES;ES-GE;Girona;LEGE;GRO;;2,760550022;41,90100098
+LEGR;medium_airport;Federico Garcia Lorca Airport;1860;EU;ES;ES-AN;Granada;LEGR;GRX;;-3,777359962;37,18870163
+LEGT;medium_airport;Getafe Air Base;2031;EU;ES;ES-M;Getafe;LEGT;;;-3,723829985;40,29410172
+LEIB;medium_airport;Ibiza Airport;24;EU;ES;ES-PM;Ibiza;LEIB;IBZ;;1,37311995;38,8728981
+LEJR;medium_airport;Jerez Airport;93;EU;ES;ES-AN;Jerez de la Forntera;LEJR;XRY;;-6,060110092;36,74459839
+LELC;medium_airport;San Javier Airport;11;EU;ES;ES-MU;San Javier;LELC;MJV;;-0,812389016;37,77500153
+LELN;medium_airport;Leon Airport;3006;EU;ES;ES-CL;LeÃ³n;LELN;LEN;;-5,655560017;42,5890007
+LEMD;large_airport;Adolfo SuÃ¡rez MadridâBarajas Airport;1998;EU;ES;ES-M;Madrid;LEMD;MAD;;-3,56264;40,471926
+LEMG;large_airport;MÃ¡laga Airport;53;EU;ES;ES-AN;MÃ¡laga;LEMG;AGP;;-4,499110222;36,67490005
+LEMH;medium_airport;Menorca Airport;302;EU;ES;ES-PM;Menorca Island;LEMH;MAH;;4,218649864;39,86259842
+LEMO;medium_airport;Moron Air Base;285;EU;ES;ES-AN;MorÃ³n;LEMO;OZP;;-5,615940094;37,17490005
+LEPA;large_airport;Palma De Mallorca Airport;27;EU;ES;ES-PM;Palma De Mallorca;LEPA;PMI;;2,738810062;39,55170059
+LEPP;medium_airport;Pamplona Airport;1504;EU;ES;ES-NA;Pamplona;LEPP;PNA;;-1,646329999;42,77000046
+LERI;medium_airport;Alcantarilla Air Base;250;EU;ES;ES-MU;Alcantarilla;LERI;;;-1,23032;37,951099
+LERS;medium_airport;Reus Air Base;233;EU;ES;ES-CT;Reus;LERS;REU;;1,167170048;41,1473999
+LERT;medium_airport;Rota Naval Station Airport;86;EU;ES;ES-AN;Rota;LERT;ROZ;;-6,349460125;36,64519882
+LESA;medium_airport;Salamanca Airport;2595;EU;ES;ES-CL;Salamanca;LESA;SLM;;-5,501989841;40,95209885
+LESO;medium_airport;San Sebastian Airport;16;EU;ES;ES-PV;Hondarribia;LESO;EAS;;-1,790609956;43,35649872
+LEST;large_airport;Santiago de Compostela Airport;1213;EU;ES;ES-GA;Santiago de Compostela;LEST;SCQ;;-8,415140152;42,89630127
+LETL;medium_airport;Teruel Airport;3380;EU;ES;ES-AR;Teruel;LETL;TEV;;-1,2183;40,403
+LETO;medium_airport;TorrejÃ³n Airport;2026;EU;ES;ES-M;Madrid;LETO;TOJ;;-3,445869923;40,49670029
+LEVC;medium_airport;Valencia Airport;240;EU;ES;ES-V;Valencia;LEVC;VLC;;-0,481625;39,4893
+LEVD;medium_airport;Valladolid Airport;2776;EU;ES;ES-CL;Valladolid;LEVD;VLL;;-4,851940155;41,70610046
+LEVT;medium_airport;Vitoria/Foronda Airport;1682;EU;ES;ES-PV;Alava;LEVT;VIT;;-2,7244699;42,88280106
+LEVX;medium_airport;Vigo Airport;856;EU;ES;ES-GA;Vigo;LEVX;VGO;;-8,62677002;42,23180008
+LEXJ;medium_airport;Santander Airport;16;EU;ES;ES-S;Santander;LEXJ;SDR;;-3,820009947;43,42710114
+LEZG;medium_airport;Zaragoza Air Base;863;EU;ES;ES-AR;Zaragoza;LEZG;ZAZ;;-1,04155004;41,66619873
+LEZL;medium_airport;Sevilla Airport;112;EU;ES;ES-AN;Sevilla;LEZL;SVQ;;-5,893109798;37,41799927
+LFAC;medium_airport;Calais-Dunkerque Airport;12;EU;FR;FR-HDF;Calais/Dunkerque;LFAC;CQF;;1,954759955;50,96210098
+LFAG;medium_airport;AÃ©rodrome de PÃ©ronne Saint-Quentin;295;EU;FR;FR-HDF;PÃ©ronne/Saint-Quentin;LFAG;;;3,02958;49,8685
+LFAT;medium_airport;Le Touquet-CÃ´te d'Opale Airport;36;EU;FR;FR-HDF;Le Touquet-Paris-Plage;LFAT;LTQ;;1,620589972;50,51739883
+LFAV;medium_airport;Valenciennes-Denain Airport;165;EU;FR;FR-HDF;Valenciennes/Denain;LFAV;XVS;;3,46126;50,325802
+LFAY;medium_airport;AÃ©rodrome d'Amiens-Glisy;208;EU;FR;FR-HDF;Amiens/Glisy;LFAY;;;2,387074;49,873004
+LFBA;medium_airport;Agen-La Garenne Airport;204;EU;FR;FR-NAQ;Agen/La Garenne;LFBA;AGF;;0,590556026;44,17470169
+LFBC;medium_airport;Cazaux (BA 120) Air Base;84;EU;FR;FR-NAQ;Cazaux (La Teste-de-Buch);LFBC;;;-1,125;44,53329849
+LFBD;large_airport;Bordeaux-MÃ©rignac Airport;162;EU;FR;FR-NAQ;Bordeaux/MÃ©rignac;LFBD;BOD;;-0,715556026;44,82830048
+LFBE;medium_airport;Bergerac-RoumaniÃ¨re Airport;171;EU;FR;FR-NAQ;Bergerac/RoumaniÃ¨re;LFBE;EGC;;0,518611014;44,82529831
+LFBF;medium_airport;Toulouse-Francazal (BA 101) Air Base;535;EU;FR;FR-OCC;Toulouse/Francazal;LFBF;;;1,367499948;43,54560089
+LFBG;medium_airport;Cognac-ChÃ¢teaubernard (BA 709) Air Base;102;EU;FR;FR-NAQ;Cognac/ChÃ¢teaubernard;LFBG;CNG;;-0,317499995;45,65829849
+LFBH;medium_airport;La Rochelle-Ãle de RÃ© Airport;74;EU;FR;FR-NAQ;La Rochelle/Ãle de RÃ©;LFBH;LRH;;-1,195279956;46,17919922
+LFBI;medium_airport;Poitiers-Biard Airport;423;EU;FR;FR-NAQ;Poitiers/Biard;LFBI;PIS;;0,306665987;46,58769989
+LFBK;medium_airport;MontluÃ§on-GuÃ©ret Airport;1497;EU;FR;FR-NAQ;MontluÃ§on/GuÃ©ret;LFBK;MCU;;2,363960028;46,22259903
+LFBL;medium_airport;Limoges Airport;1300;EU;FR;FR-NAQ;Limoges/Bellegarde;LFBL;LIG;;1,179440022;45,8628006
+LFBM;medium_airport;Mont-de-Marsan (BA 118) Air Base;203;EU;FR;FR-NAQ;Mont-de-Marsan;LFBM;;;-0,5075;43,911701
+LFBN;medium_airport;Niort-SouchÃ© Airport;203;EU;FR;FR-NAQ;Niort/SouchÃ©;LFBN;NIT;;-0,394529;46,313477
+LFBO;large_airport;Toulouse-Blagnac Airport;499;EU;FR;FR-OCC;Toulouse/Blagnac;LFBO;TLS;;1,36382;43,629101
+LFBP;medium_airport;Pau PyrÃ©nÃ©es Airport;616;EU;FR;FR-NAQ;Pau/PyrÃ©nÃ©es (Uzein);LFBP;PUF;;-0,41861099;43,38000107
+LFBT;medium_airport;Tarbes-Lourdes-PyrÃ©nÃ©es Airport;1260;EU;FR;FR-OCC;Tarbes/Lourdes/PyrÃ©nÃ©es;LFBT;LDE;;-0,006439;43,17869949
+LFBU;medium_airport;AngoulÃªme-Brie-Champniers Airport;436;EU;FR;FR-NAQ;AngoulÃªme/Brie/Champniers;LFBU;ANG;;0,221456006;45,72919846
+LFBX;medium_airport;PÃ©rigueux-Bassillac Airport;328;EU;FR;FR-NAQ;PÃ©rigueux/Bassillac;LFBX;PGX;;0,81555599;45,19810104
+LFBZ;medium_airport;Biarritz-Anglet-Bayonne Airport;245;EU;FR;FR-NAQ;Biarritz/Anglet/Bayonne;LFBZ;BIQ;;-1,5311111;43,4683333
+LFCC;medium_airport;Cahors-Lalbenque Airport;912;EU;FR;FR-OCC;Cahors/Lalbenque;LFCC;ZAO;;1,475280046;44,35139847
+LFCG;medium_airport;AÃ©rodrome de Saint-Girons - Antichan;1368;EU;FR;FR-OCC;Saint-Girons/Antichan;LFCG;;;1,10315;43,007801
+LFCH;medium_airport;Arcachon-La Teste-de-Buch Airport;52;EU;FR;FR-NAQ;Arcachon/La Teste-de-Buch;LFCH;;;-1,11083;44,596401
+LFCI;medium_airport;Albi-Le SÃ©questre Airport;564;EU;FR;FR-OCC;Albi/Le SÃ©questre;LFCI;LBI;;2,113059998;43,91389847
+LFCK;medium_airport;Castres-Mazamet Airport;788;EU;FR;FR-OCC;Castres/Mazamet;LFCK;DCM;;2,28918004;43,55630112
+LFCR;medium_airport;Rodez-Marcillac Airport;1910;EU;FR;FR-OCC;Rodez/Marcillac;LFCR;RDZ;;2,482670069;44,40790176
+LFCY;medium_airport;Royan-MÃ©dis Airport;72;EU;FR;FR-NAQ;Royan/MÃ©dis;LFCY;RYN;;-0,972500026;45,62810135
+LFDH;medium_airport;Auch-Lamothe Airport;411;EU;FR;FR-OCC;Auch/Lamothe;LFDH;;;0,601667;43,687801
+LFDI;medium_airport;Libourne-Artigues-de-Lussac Airport;157;EU;FR;FR-NAQ;Libourne/Artigues-de-Lussac;LFDI;;;-0,134722;44,982498
+LFDN;medium_airport;Rochefort-Saint-Agnant (BA 721) Airport;60;EU;FR;FR-NAQ;Rochefort/Saint-Agnant;LFDN;RCO;;-0,983056009;45,88779831
+LFEY;medium_airport;Ãle d'Yeu Airport;79;EU;FR;FR-PDL;Ãle d'Yeu;LFEY;IDY;;-2,391109943;46,71860123
+LFGA;medium_airport;Colmar-Houssen Airport;628;EU;FR;FR-GES;Colmar/Houssen;LFGA;CMR;;7,35901022;48,10990143
+LFGJ;medium_airport;Dole-Tavaux Airport;645;EU;FR;FR-BFC;Dole/Tavaux;LFGJ;DLE;;5,435063;47,042686
+LFGW;medium_airport;Verdun-Le Rozelier Airfield;1230;EU;FR;FR-GES;Verdun;LFGW;;;5,46905;49,122398
+LFHO;medium_airport;Aubenas-ArdÃ¨che MÃ©ridional Airport;923;EU;FR;FR-ARA;Aubenas/ArdÃ¨che MÃ©ridional;LFHO;OBS;;4,372192;44,544203
+LFHP;medium_airport;Le Puy-Loudes Airport;2731;EU;FR;FR-ARA;Le Puy/Loudes;LFHP;LPY;;3,7628901;45,08069992
+LFJL;medium_airport;Metz-Nancy-Lorraine Airport;870;EU;FR;FR-GES;Metz / Nancy;LFJL;ETZ;;6,251319885;48,98210144
+LFJR;medium_airport;Angers-Loire Airport;194;EU;FR;FR-PDL;Angers/MarcÃ©;LFJR;ANE;;-0,312222;47,560299
+LFKB;medium_airport;Bastia-Poretta Airport;26;EU;FR;FR-COR;Bastia/Poretta;LFKB;BIA;;9,483730316;42,55270004
+LFKC;medium_airport;Calvi-Sainte-Catherine Airport;209;EU;FR;FR-COR;Calvi/Sainte-Catherine;LFKC;CLY;;8,7930556;42,5244444
+LFKF;medium_airport;Figari Sud-Corse Airport;87;EU;FR;FR-COR;Figari Sud-Corse;LFKF;FSC;;9,097780228;41,50059891
+LFKJ;medium_airport;Ajaccio-NapolÃ©on Bonaparte Airport;18;EU;FR;FR-COR;Ajaccio/NapolÃ©on Bonaparte;LFKJ;AJA;;8,802920341;41,92359924
+LFKS;medium_airport;Solenzara (BA 126) Air Base;28;EU;FR;FR-COR;Solenzara;LFKS;SOZ;;9,406000137;41,92440033
+LFLA;medium_airport;Auxerre-Branches Airport;523;EU;FR;FR-BFC;Auxerre/Branches;LFLA;AUF;;3,49710989;47,85020065
+LFLB;medium_airport;ChambÃ©ry-Savoie Airport;779;EU;FR;FR-ARA;ChambÃ©ry/Aix-les-Bains;LFLB;CMF;;5,88022995;45,63809967
+LFLC;medium_airport;Clermont-Ferrand Auvergne Airport;1090;EU;FR;FR-ARA;Clermont-Ferrand/Auvergne;LFLC;CFE;;3,169169903;45,7867012
+LFLD;medium_airport;Bourges Airport;529;EU;FR;FR-CVL;Bourges;LFLD;BOU;;2,370280027;47,05810165
+LFLH;medium_airport;Chalon-Champforgeuil Airport;623;EU;FR;FR-BFC;Chalon/Champforgueil;LFLH;;;4,817629814;46,8260994
+LFLI;medium_airport;Annemasse Airport;1620;EU;FR;FR-ARA;Annemasse;LFLI;QNJ;;6,268390179;46,19200134
+LFLL;large_airport;Lyon Saint-ExupÃ©ry Airport;821;EU;FR;FR-ARA;Lyon;LFLL;LYS;;5,081111;45,725556
+LFLM;medium_airport;AÃ©rodrome de MÃ¢con-Charnay;728;EU;FR;FR-BFC;MÃ¢con/Charnay;LFLM;;;4,79577;46,295101
+LFLN;medium_airport;Saint-Yan Airport;796;EU;FR;FR-BFC;Saint-Yan;LFLN;SYT;;4,013259888;46,41249847
+LFLO;medium_airport;Roanne-Renaison Airport;1106;EU;FR;FR-ARA;Roanne/Renaison;LFLO;RNE;;4,00138998;46,05830002
+LFLP;medium_airport;Annecy-Haute-Savoie-Mont Blanc Airport;1521;EU;FR;FR-ARA;Annecy/Meythet;LFLP;NCY;;6,1063889;45,9308333
+LFLS;medium_airport;Grenoble-IsÃ¨re Airport;1302;EU;FR;FR-U-A;Saint-Ãtienne-de-Saint-Geoirs;LFLS;GNB;;5,32937;45,3629
+LFLU;medium_airport;Valence-Chabeuil Airport;525;EU;FR;FR-ARA;Valence/Chabeuil;LFLU;VAF;;4,9699;44,9216
+LFLV;medium_airport;Vichy-Charmeil Airport;817;EU;FR;FR-ARA;Vichy/Charmeil;LFLV;VHY;;3,403739929;46,16970062
+LFLW;medium_airport;Aurillac Airport;2096;EU;FR;FR-ARA;Aurillac;LFLW;AUR;;2,421940088;44,89139938
+LFLX;medium_airport;"ChÃ¢teauroux-DÃ©ols ""Marcel Dassault"" Airport";529;EU;FR;FR-CVL;ChÃ¢teauroux/DÃ©ols;LFLX;CHR;;1,721111;46,860278
+LFLY;medium_airport;Lyon-Bron Airport;659;EU;FR;FR-ARA;Lyon/Bron;LFLY;LYN;;4,944270134;45,72719955
+LFMC;medium_airport;Le Luc-Le Cannet Airport;265;EU;FR;FR-PAC;Le Luc/Le Cannet;LFMC;;;6,387139797;43,38470078
+LFMD;medium_airport;Cannes-Mandelieu Airport;13;EU;FR;FR-PAC;Cannes/Mandelieu;LFMD;CEQ;;6,95348;43,542
+LFMH;medium_airport;Saint-Ãtienne-BouthÃ©on Airport;1325;EU;FR;FR-ARA;Saint-Ãtienne/BouthÃ©on;LFMH;EBU;;4,296390057;45,54059982
+LFMI;medium_airport;Istres Le TubÃ© Air Base;82;EU;FR;FR-PAC;Istres/Le TubÃ©;LFMI;;;4,92384;43,522701
+LFMK;medium_airport;Carcassonne Airport;433;EU;FR;FR-OCC;Carcassonne/Salvaza;LFMK;CCF;;2,306319952;43,2159996
+LFML;large_airport;Marseille Provence Airport;74;EU;FR;FR-PAC;Marseille;LFML;MRS;;5,221424103;43,43927192
+LFMN;large_airport;Nice-CÃ´te d'Azur Airport;12;EU;FR;FR-PAC;Nice;LFMN;NCE;;7,215869904;43,65840149
+LFMO;medium_airport;Orange-Caritat (BA 115) Air Base;197;EU;FR;FR-PAC;Orange/Caritat;LFMO;XOG;;4,8667202;44,14049911
+LFMP;medium_airport;Perpignan-Rivesaltes (LlabanÃ¨re) Airport;144;EU;FR;FR-OCC;Perpignan/Rivesaltes;LFMP;PGF;;2,87067008;42,74039841
+LFMQ;medium_airport;Le Castellet Airport;1391;EU;FR;FR-PAC;Le Castellet;LFMQ;CTT;;5,785190105;43,25249863
+LFMS;medium_airport;AÃ©rodrome d'AlÃ¨s CÃ©vennes;668;EU;FR;FR-OCC;AlÃ¨s/Deaux;LFMS;;;4,14212;44,069698
+LFMT;medium_airport;Montpellier-MÃ©diterranÃ©e Airport;17;EU;FR;FR-OCC;Montpellier/MÃ©diterranÃ©e;LFMT;MPL;;3,963010073;43,57619858
+LFMU;medium_airport;BÃ©ziers-Vias Airport;56;EU;FR;FR-OCC;BÃ©ziers/Vias;LFMU;BZR;;3,353899956;43,32350159
+LFMV;medium_airport;Avignon-Caumont Airport;124;EU;FR;FR-PAC;Avignon/Caumont;LFMV;AVN;;4,901830196;43,90729904
+LFMY;medium_airport;Salon-de-Provence (BA 701) Air Base;195;EU;FR;FR-PAC;Salon;LFMY;;;5,109250069;43,60639954
+LFNB;medium_airport;Mende-Brenoux Airfield;3362;EU;FR;FR-OCC;Mende/BrÃ©noux;LFNB;MEN;;3,53282;44,502102
+LFOA;large_airport;Avord (BA 702) Air Base;580;EU;FR;FR-CVL;Avord;LFOA;;;2,6325;47,053299
+LFOB;medium_airport;Paris Beauvais TillÃ© Airport;359;EU;FR;FR-HDF;Beauvais/TillÃ©;LFOB;BVA;;2,112780094;49,45439911
+LFOC;medium_airport;ChÃ¢teaudun (BA 279) Air Base;433;EU;FR;FR-CVL;ChÃ¢teaudun;LFOC;;;1,37662;48,058102
+LFOE;medium_airport;Ãvreux-Fauville (BA 105) Air Base;464;EU;FR;FR-NOR;Ãvreux/Fauville;LFOE;EVX;;1,219859958;49,02870178
+LFOH;medium_airport;Le Havre Octeville Airport;313;EU;FR;FR-NOR;Le Havre/Octeville;LFOH;LEH;;0,088055998;49,53390121
+LFOI;medium_airport;Abbeville;220;EU;FR;FR-HDF;Abbeville;LFOI;;;1,831891;50,143501
+LFOJ;medium_airport;OrlÃ©ans-Bricy (BA 123) Air Base;412;EU;FR;FR-CVL;OrlÃ©ans/Bricy;LFOJ;ORE;;1,760560036;47,9878006
+LFOK;medium_airport;ChÃ¢lons-Vatry Airport;587;EU;FR;FR-GES;Vatry;LFOK;XCR;;4,206111111;48,77333333
+LFOP;medium_airport;Rouen Airport;512;EU;FR;FR-NOR;Rouen/VallÃ©e de Seine;LFOP;URO;;1,174800038;49,38420105
+LFOT;medium_airport;Tours-Val-de-Loire Airport;357;EU;FR;FR-CVL;Tours/Val de Loire (Loire Valley);LFOT;TUF;;0,727605999;47,43220139
+LFOU;medium_airport;Cholet Le Pontreau Airport;443;EU;FR;FR-PDL;Cholet/Le Pontreau;LFOU;CET;;-0,87706399;47,08209991
+LFOV;medium_airport;Laval-Entrammes Airport;330;EU;FR;FR-PDL;Laval/Entrammes;LFOV;LVA;;-0,742986023;48,03139877
+LFPB;medium_airport;Paris-Le Bourget Airport;218;EU;FR;FR-IDF;Paris;LFPB;LBG;;2,441390038;48,9693985
+LFPC;medium_airport;Creil Air Base;291;EU;FR;FR-HDF;Creil;LFPC;CSF;;2,519140005;49,25350189
+LFPG;large_airport;Charles de Gaulle International Airport;392;EU;FR;FR-IDF;Paris;LFPG;CDG;;2,55;49,012798
+LFPM;medium_airport;Melun-Villaroche Air Base;302;EU;FR;FR-IDF;Melun/Villaroche;LFPM;;;2,671119928;48,60469818
+LFPN;medium_airport;Toussus-le-Noble Airport;538;EU;FR;FR-IDF;Toussus-le-Noble;LFPN;TNF;;2,106189966;48,75189972
+LFPO;large_airport;Paris-Orly Airport;291;EU;FR;FR-IDF;Paris;LFPO;ORY;;2,3794444;48,7233333
+LFPT;medium_airport;AÃ©rodrome de Pontoise - Cormeilles en Vexin;325;EU;FR;FR-IDF;Cormeilles-en-Vexin;LFPT;POX;;2,040833;49,096667
+LFPV;medium_airport;Villacoublay-VÃ©lizy (BA 107) Air Base;584;EU;FR;FR-IDF;Villacoublay/VÃ©lizy;LFPV;VIY;;2,1916667;48,7741667
+LFQB;medium_airport;Troyes-Barberey Airport;388;EU;FR;FR-GES;Troyes/Barberey;LFQB;;;4,0167;48,322102
+LFQE;medium_airport;Ãtain-Rouvres Air Base;770;EU;FR;FR-GES;Ãtain/Rouvres;LFQE;;;5,67222023;49,22689819
+LFQG;medium_airport;Nevers-Fourchambault Airport;602;EU;FR;FR-BFC;Nevers/Fourchambault;LFQG;NVS;;3,113329887;47,00260162
+LFQJ;medium_airport;Maubeuge-Ãlesmes Airport;452;EU;FR;FR-HDF;Maubeuge/Ãlesmes;LFQJ;XME;;4,033120155;50,3105011
+LFQP;medium_airport;Phalsbourg-Bourscheid Air Base;1017;EU;FR;FR-GES;Phalsbourg/Bourscheid;LFQP;;;7,205;48,7680556
+LFQQ;medium_airport;Lille-Lesquin Airport;157;EU;FR;FR-HDF;Lille/Lesquin;LFQQ;LIL;;3,086886;50,563332
+LFQT;medium_airport;Merville-Calonne Airport;61;EU;FR;FR-HDF;Merville/Calonne;LFQT;HZB;;2,642240047;50,61840057
+LFQV;medium_airport;Charleville-MÃ©ziÃ¨res Airport;492;EU;FR;FR-GES;Charleville-MÃ©ziÃ¨res;LFQV;XCZ;;4,647079945;49,78390121
+LFQW;medium_airport;AÃ©rodrome de Vesoul-Frotey;1249;EU;FR;FR-BFC;Vesoul/Frotey;LFQW;;;6,20392;47,6376
+LFRB;medium_airport;Brest Bretagne Airport;325;EU;FR;FR-BRE;Brest/Guipavas;LFRB;BES;;-4,418540001;48,44789886
+LFRC;medium_airport;Cherbourg-Maupertus Airport;459;EU;FR;FR-NOR;Cherbourg/Maupertus;LFRC;CER;;-1,470280051;49,65010071
+LFRD;medium_airport;Dinard-Pleurtuit-Saint-Malo Airport;219;EU;FR;FR-BRE;Dinard/Pleurtuit/Saint-Malo;LFRD;DNR;;-2,079960108;48,58769989
+LFRE;medium_airport;La Baule-Escoublac Airport;105;EU;FR;FR-PDL;La Baule-Escoublac;LFRE;LBY;;-2,346390009;47,28939819
+LFRF;medium_airport;Granville Airport;45;EU;FR;FR-NOR;Granville;LFRF;GFR;;-1,564170003;48,8830986
+LFRG;medium_airport;Deauville-Saint-Gatien Airport;479;EU;FR;FR-NOR;Deauville;LFRG;DOL;;0,154305995;49,36529922
+LFRH;medium_airport;Lorient South Brittany (Bretagne Sud) Airport;160;EU;FR;FR-BRE;Lorient/Lann/BihouÃ©;LFRH;LRT;;-3,440000057;47,76060104
+LFRI;medium_airport;La Roche-sur-Yon Airport;299;EU;FR;FR-PDL;La Roche-sur-Yon/Les Ajoncs;LFRI;EDM;;-1,378630042;46,70190048
+LFRJ;medium_airport;Landivisiau Air Base;348;EU;FR;FR-BRE;Landivisiau;LFRJ;LDV;;-4,151639938;48,53030014
+LFRK;medium_airport;Caen-Carpiquet Airport;256;EU;FR;FR-NOR;Caen/Carpiquet;LFRK;CFR;;-0,449999988;49,1733017
+LFRL;medium_airport;LanvÃ©oc-Poulmic Air Base;287;EU;FR;FR-BRE;LanvÃ©oc/Poulmic;LFRL;;;-4,445020199;48,28170013
+LFRM;medium_airport;Le Mans-Arnage Airport;194;EU;FR;FR-PDL;Le Mans/Arnage;LFRM;LME;;0,201666996;47,94860077
+LFRN;medium_airport;Rennes-Saint-Jacques Airport;124;EU;FR;FR-BRE;Rennes/Saint-Jacques;LFRN;RNS;;-1,73479;48,0695
+LFRO;medium_airport;Lannion-CÃ´te de Granit Airport;290;EU;FR;FR-BRE;Lannion;LFRO;LAI;;-3,47166;48,754398
+LFRQ;medium_airport;Quimper-Cornouaille Airport;297;EU;FR;FR-BRE;Quimper/Pluguffan;LFRQ;UIP;;-4,167789936;47,97499847
+LFRS;medium_airport;Nantes Atlantique Airport;90;EU;FR;FR-PDL;Nantes;LFRS;NTE;;-1,610730052;47,15319824
+LFRT;medium_airport;Saint-Brieuc-Armor Airport;453;EU;FR;FR-BRE;Saint-Brieuc/Armor;LFRT;SBK;;-2,85444;48,5378
+LFRU;medium_airport;Morlaix-Ploujean Airport;272;EU;FR;FR-BRE;Morlaix/Ploujean;LFRU;MXN;;-3,815779924;48,60319901
+LFRV;medium_airport;Vannes-Meucon Airport;446;EU;FR;FR-BRE;Vannes/Meucon;LFRV;VNE;;-2,71855998;47,72330093
+LFRZ;medium_airport;Saint-Nazaire-Montoir Airport;13;EU;FR;FR-PDL;Saint-Nazaire/Montoir;LFRZ;SNR;;-2,1566667;47,3105556
+LFSB;large_airport;EuroAirport Basel-Mulhouse-Freiburg Airport;885;EU;FR;FR-GES;BÃ¢le/Mulhouse;LFSB;BSL;;7,529167;47,59
+LFSD;medium_airport;Dijon-Bourgogne Airport;726;EU;FR;FR-BFC;Dijon/Longvic;LFSD;DIJ;;5,09;47,268902
+LFSG;medium_airport;Ãpinal-Mirecourt Airport;1084;EU;FR;FR-GES;Ãpinal/Mirecourt;LFSG;EPL;;6,06998;48,325001
+LFSI;medium_airport;Saint-Dizier-Robinson (BA 113) Air Base;458;EU;FR;FR-GES;Saint-Dizier/Robinson;LFSI;;;4,899419785;48,63600159
+LFSL;medium_airport;Brive-Souillac;1016;EU;FR;FR-NAQ;Brive la Gaillarde;LFSL;BVE;;1,485556;45,039722
+LFSM;medium_airport;MontbÃ©liard-Courcelles Airfield;1041;EU;FR;FR-BFC;MontbÃ©liard/Courcelles;LFSM;;;6,79054;47,487
+LFSN;medium_airport;Nancy-Essey Airport;751;EU;FR;FR-GES;Nancy/Essey;LFSN;ENC;;6,230460167;48,69210052
+LFSO;medium_airport;Nancy-Ochey (BA 133) Air Base;1106;EU;FR;FR-GES;Nancy/Ochey;LFSO;;;5,954999924;48,58309937
+LFST;medium_airport;Strasbourg Airport;505;EU;FR;FR-GES;Strasbourg;LFST;SXB;;7,628230095;48,53829956
+LFSX;medium_airport;Luxeuil-Saint-Sauveur (BA 116) Air Base;913;EU;FR;FR-BFC;Luxeuil/Saint-Sauveur;LFSX;;;6,36416667;47,7830556
+LFTH;medium_airport;Toulon-HyÃ¨res Airport;7;EU;FR;FR-PAC;Toulon/HyÃ¨res/Le Palyvestre;LFTH;TLN;;6,146029949;43,09730148
+LFTW;medium_airport;NÃ®mes-Arles-Camargue Airport;309;EU;FR;FR-OCC;NÃ®mes/Garons;LFTW;FNI;;4,416349888;43,75740051
+LFVM;medium_airport;Miquelon Airport;10;NA;PM;PM-ML;Miquelon;LFVM;MQC;;-56,38029861;47,09550095
+LFVP;medium_airport;St Pierre Airport;27;NA;PM;PM-SP;Saint-Pierre;LFVP;FSP;;-56,17309952;46,76290131
+LFXA;medium_airport;AmbÃ©rieu Air Base (BA 278);823;EU;FR;FR-ARA;AmbÃ©rieu;LFXA;;;5,32844;45,987301
+LGAD;medium_airport;Andravida Air Base;55;EU;GR;GR-14;Andravida;LGAD;PYR;;21,292601;37,9207
+LGAL;medium_airport;Dimokritos Airport;24;EU;GR;GR-71;Alexandroupolis;LGAL;AXD;;25,95630074;40,85589981
+LGAV;large_airport;Eleftherios Venizelos International Airport;308;EU;GR;GR-A1;Athens;LGAV;ATH;;23,94449997;37,93640137
+LGBL;medium_airport;Nea Anchialos Airport;83;EU;GR;GR-43;Nea Anchialos;LGBL;VOL;;22,79430008;39,21960068
+LGEL;medium_airport;Elefsis Airport;143;EU;GR;GR-A1;Elefsina;LGEL;;;23,55599976;38,06380081
+LGHI;medium_airport;Chios Island National Airport;15;EU;GR;GR-85;Chios Island;LGHI;JKH;;26,1406002;38,34320068
+LGIO;medium_airport;Ioannina Airport;1558;EU;GR;GR-33;Ioannina;LGIO;IOA;;20,82250023;39,69639969
+LGIR;large_airport;Heraklion International Nikos Kazantzakis Airport;115;EU;GR;GR-91;Heraklion;LGIR;HER;;25,18029976;35,33969879
+LGKF;medium_airport;Kefallinia Airport;59;EU;GR;GR-23;Kefallinia Island;LGKF;EFL;;20,50049973;38,12009811
+LGKL;medium_airport;Kalamata Airport;26;EU;GR;GR-17;Kalamata;LGKL;KLX;;22,02549934;37,06829834
+LGKO;medium_airport;Kos Airport;412;EU;GR;GR-81;Kos Island;LGKO;KGS;;27,0916996;36,79330063
+LGKP;medium_airport;Karpathos Airport;66;EU;GR;GR-81;Karpathos Island;LGKP;AOK;;27,14599991;35,42139816
+LGKR;medium_airport;Ioannis Kapodistrias International Airport;6;EU;GR;GR-22;Kerkyra Island;LGKR;CFU;;19,9116993;39,60189819
+LGKV;medium_airport;Alexander the Great International Airport;18;EU;GR;GR-55;Kavala;LGKV;KVA;;24,61919975;40,91329956
+LGKZ;medium_airport;Filippos Airport;2059;EU;GR;GR-58;Kozani;LGKZ;KZI;;21,84079933;40,28609848
+LGMK;medium_airport;Mikonos Airport;405;EU;GR;GR-82;Mykonos Island;LGMK;JMK;;25,34810066;37,43510056
+LGMT;medium_airport;Mytilene International Airport;60;EU;GR;GR-83;Mytilene;LGMT;MJT;;26,59830093;39,05670166
+LGPZ;medium_airport;Aktion National Airport;11;EU;GR;GR-34;Preveza/Lefkada;LGPZ;PVK;;20,76530075;38,92549896
+LGRP;medium_airport;Diagoras Airport;17;EU;GR;GR-81;Rodes Island;LGRP;RHO;;28,08620071;36,40539932
+LGRX;medium_airport;Araxos Airport;46;EU;GR;GR-13;Patras;LGRX;GPA;;21,4256;38,1511
+LGSA;medium_airport;Chania International Airport;490;EU;GR;GR-94;Souda;LGSA;CHQ;;24,14970016;35,53170013
+LGSK;medium_airport;Skiathos Island National Airport;54;EU;GR;GR-43;Skiathos;LGSK;JSI;;23,50370026;39,17710114
+LGSM;medium_airport;Samos Airport;19;EU;GR;GR-84;Samos Island;LGSM;SMI;;26,9116993;37,68999863
+LGSR;medium_airport;Santorini Airport;127;EU;GR;GR-82;Santorini Island;LGSR;JTR;;25,47929955;36,39920044
+LGST;medium_airport;Sitia Airport;376;EU;GR;GR-92;Crete Island;LGST;JSH;;26,10129929;35,21609879
+LGTG;medium_airport;Tanagra Air Base;485;EU;GR;GR-03;Tanagra;LGTG;;;23,565001;38,339802
+LGTS;large_airport;Thessaloniki Macedonia International Airport;22;EU;GR;GR-54;Thessaloniki;LGTS;SKG;;22,97089958;40,5196991
+LGZA;medium_airport;"Zakynthos International Airport ""Dionysios Solomos""";15;EU;GR;GR-21;Zakynthos Island;LGZA;ZTH;;20,8843;37,7509
+LHBP;large_airport;Budapest Liszt Ferenc International Airport;495;EU;HU;HU-PE;Budapest;LHBP;BUD;;19,261093;47,42976
+LHDC;medium_airport;Debrecen International Airport;359;EU;HU;HU-HB;Debrecen;LHDC;DEB;;21,61529922;47,48889923
+LHKE;medium_airport;KecskemÃ©t Airport;376;EU;HU;HU-BK;KecskemÃ©t;LHKE;;;19,74920082;46,91749954
+LHPP;medium_airport;PÃ©cs-PogÃ¡ny Airport;1000;EU;HU;HU-BA;PÃ©cs-PogÃ¡ny;LHPP;PEV;;18,240996;45,990898
+LHPR;medium_airport;GyÅr-PÃ©r International Airport;424;EU;HU;HU-GS;GyÅr;LHPR;;;17,813601;47,624401
+LHSM;medium_airport;HÃ©vÃ­zâBalaton Airport;408;EU;HU;HU-ZA;SÃ¡rmellÃ©k;LHSM;SOB;;17,159084;46,686391
+LHSN;medium_airport;Szolnok Air Base;322;EU;HU;HU-JN;Szolnok;LHSN;;;20,2355;47,122897
+LHTA;medium_airport;TaszÃ¡r Air Base;531;EU;HU;HU-SO;TaszÃ¡r;LHTA;TZR;;17,91749954;46,39310074
+LHTL;medium_airport;TÃ¶kÃ¶l Airport;318;EU;HU;HU-PE;TÃ¶kÃ¶l;LHTL;;;18,98080063;47,34529877
+LIBA;medium_airport;Amendola Air Base;183;EU;IT;IT-75;Foggia;LIBA;;FG06;15,7181;41,541401
+LIBC;medium_airport;Crotone Airport;522;EU;IT;IT-78;Crotone;LIBC;CRV;KR01;17,0802;38,9972
+LIBD;large_airport;Bari Karol WojtyÅa Airport;177;EU;IT;IT-75;Bari;LIBD;BRI;BA02;16,760599;41,138901
+LIBF;medium_airport;"Foggia ""Gino Lisa"" Airport";265;EU;IT;IT-75;Foggia;LIBF;FOG;FG05;15,535;41,432899
+LIBG;medium_airport;"Taranto-Grottaglie ""Marcello Arlotta"" Airport";215;EU;IT;IT-75;Grottaglie;LIBG;TAR;TA02;17,4032;40,517502
+LIBN;medium_airport;Lecce Galatina Air Base;156;EU;IT;IT-75;;LIBN;LCC;LE08;18,133301;40,239201
+LIBP;medium_airport;Pescara International Airport;48;EU;IT;IT-65;Pescara;LIBP;PSR;PE01;14,1811;42,431702
+LIBR;medium_airport;Brindisi â Salento Airport;47;EU;IT;IT-75;Brindisi;LIBR;BDS;BR03;17,947001;40,6576
+LIBV;medium_airport;Gioia Del Colle Air Base;1187;EU;IT;IT-75;Gioia Del Colle (BA);LIBV;;BA07;16,9333;40,767799
+LICA;medium_airport;Lamezia Terme Airport;39;EU;IT;IT-78;Lamezia Terme (CZ);LICA;SUF;CZ02;16,2423;38,905399
+LICB;medium_airport;Comiso Airport;623;EU;IT;IT-82;Comiso;LICB;CIY;RG06;14,607182;36,994601
+LICC;large_airport;Catania-Fontanarossa Airport;39;EU;IT;IT-82;Catania;LICC;CTA;CT03;15,0664;37,466801
+LICD;medium_airport;Lampedusa Airport;70;EU;IT;IT-82;Lampedusa;LICD;LMP;AG01;12,6181;35,497898
+LICG;medium_airport;Pantelleria Airport;628;EU;IT;IT-82;Pantelleria (TP);LICG;PNL;TP02;11,9689;36,816502
+LICJ;large_airport;FalconeâBorsellino Airport;65;EU;IT;IT-82;Palermo;LICJ;PMO;PA03;13,091;38,175999
+LICP;medium_airport;Palermo-Boccadifalco Airport;345;EU;IT;IT-82;Palermo;LICP;;PA04;13,3133;38,110802
+LICR;medium_airport;Reggio Calabria Airport;96;EU;IT;IT-78;Reggio Calabria;LICR;REG;RC01;15,6516;38,071201
+LICT;medium_airport;Vincenzo Florio Airport Trapani-Birgi;25;EU;IT;IT-82;Trapani (TP);LICT;TPS;TP01;12,488;37,9114
+LICZ;medium_airport;Sigonella Navy Air Base;79;EU;IT;IT-82;Sigonella (CT);LICZ;NSY;CT04;14,9224;37,401699
+LIDT;medium_airport;Trento-Mattarello Airport;610;EU;IT;IT-32;Trento (TN);LIDT;;TN01;11,1242;46,0214
+LIEA;medium_airport;Alghero-Fertilia Airport;87;EU;IT;IT-88;Alghero;LIEA;AHO;SS02;8,29077;40,632099
+LIED;medium_airport;Decimomannu Air Base;100;EU;IT;IT-88;Decimomannu;LIED;DCI;CA12;8,97248;39,354198
+LIEE;large_airport;Cagliari Elmas Airport;13;EU;IT;IT-88;Cagliari;LIEE;CAG;CA07;9,05428;39,251499
+LIEO;medium_airport;Olbia Costa Smeralda Airport;37;EU;IT;IT-88;Olbia (SS);LIEO;OLB;SS03;9,51763;40,898701
+LIET;medium_airport;TortolÃ¬ Airport;23;EU;IT;IT-88;Arbatax;LIET;TTB;NU01;9,68298;39,9188
+LILA;medium_airport;Alessandria Airport;299;EU;IT;IT-21;Alessandria;LILA;;AL03;8,62513;44,925201
+LILE;medium_airport;Biella-Cerrione Airport;920;EU;IT;IT-21;Biella (BI);LILE;;BI03;8,10278;45,4953
+LILI;medium_airport;Vercelli Airport;417;EU;IT;IT-21;Vercelli;LILI;;VC04;8,417935;45,310233
+LILM;medium_airport;Casale Monferrato Airport;377;EU;IT;IT-21;Casale Monferrato;LILM;;AL04;8,45603;45,111198
+LILN;medium_airport;Varese-Venegono Airport;1050;EU;IT;IT-25;Varese;LILN;;VA02;8,888233;45,742199
+LIMA;medium_airport;Torino-Aeritalia Airport;943;EU;IT;IT-21;Torino;LIMA;;TO12;7,60337;45,086399
+LIMC;large_airport;Malpensa International Airport;768;EU;IT;IT-25;Milan;LIMC;MXP;MI12;8,72811;45,6306
+LIME;large_airport;Milan Bergamo Airport;782;EU;IT;IT-25;Bergamo;LIME;BGY;BG01;9,70417;45,673901
+LIMF;large_airport;Turin Airport;989;EU;IT;IT-21;Torino;LIMF;TRN;TO11;7,64963;45,200802
+LIMG;medium_airport;Villanova D'Albenga International Airport;148;EU;IT;IT-42;Albenga (SV);LIMG;ALL;SV01;8,12743;44,050598
+LIMJ;large_airport;Genoa Cristoforo Colombo Airport;13;EU;IT;IT-42;Genova;LIMJ;GOA;GE01;8,8375;44,4133
+LIML;large_airport;Milano Linate Airport;353;EU;IT;IT-25;Milan;LIML;LIN;MI11;9,27674;45,445099
+LIMN;medium_airport;Cameri Air Base [MIL];586;EU;IT;IT-21;Cameri (NO);LIMN;;NO08;8,66922;45,529598
+LIMP;medium_airport;Parma Airport;161;EU;IT;IT-45;Parma;LIMP;PMF;PR03;10,2964;44,824501
+LIMR;medium_airport;Novi Ligure Airport;607;EU;IT;IT-21;Novi Ligure;LIMR;;AL05;8,78639;44,779999
+LIMS;medium_airport;Piacenza San Damiano Air Base;456;EU;IT;IT-45;Piacenza;LIMS;;PC08;9,723322;44,913102
+LIMW;medium_airport;Aosta Airport;1791;EU;IT;IT-23;Aosta;LIMW;AOT;AO01;7,36872;45,738499
+LIMZ;medium_airport;Cuneo International Airport;1267;EU;IT;IT-21;Cuneo;LIMZ;CUF;CN03;7,62322;44,547001
+LIPA;medium_airport;Aviano Air Base;410;EU;IT;IT-36;Aviano (PN);LIPA;AVB;PN07;12,596503;46,031898
+LIPB;medium_airport;Bolzano Airport;789;EU;IT;IT-32;Bolzano;LIPB;BZO;BZ01;11,3264;46,460201
+LIPC;medium_airport;Cervia Air Base;18;EU;IT;IT-45;Cervia;LIPC;;RA08;12,3072;44,224201
+LIPE;large_airport;Bologna Guglielmo Marconi Airport;123;EU;IT;IT-45;Bologna;LIPE;BLQ;BO08;11,2887;44,5354
+LIPH;large_airport;Treviso-Sant'Angelo Airport;59;EU;IT;IT-34;Treviso;LIPH;TSF;TV01;12,1944;45,648399
+LIPI;medium_airport;Rivolto Air Base;179;EU;IT;IT-36;Codroipo;LIPI;;UD16;13,0493;45,978699
+LIPK;medium_airport;ForlÃ¬ Airport;97;EU;IT;IT-45;ForlÃ¬ (FC);LIPK;FRL;FC03;12,0701;44,194801
+LIPL;medium_airport;Ghedi Air Base;333;EU;IT;IT-25;Ghedi;LIPL;;BS12;10,2677;45,432201
+LIPO;medium_airport;Brescia Airport;355;EU;IT;IT-25;Montichiari (BS);LIPO;VBS;BS04;10,3306;45,428902
+LIPQ;medium_airport;TriesteâFriuli Venezia Giulia Airport;39;EU;IT;IT-36;Trieste;LIPQ;TRS;GO02;13,4722;45,827499
+LIPR;medium_airport;Federico Fellini International Airport;40;EU;IT;IT-45;Rimini;LIPR;RMI;RN01;12,6117;44,020302
+LIPS;medium_airport;Istrana Air Base;137;EU;IT;IT-34;Istrana;LIPS;;TV16;12,0829;45,684898
+LIPU;medium_airport;Padova Airport;44;EU;IT;IT-34;Padova;LIPU;QPA;PD11;11,8479;45,395802
+LIPX;large_airport;Verona Villafranca Airport;239;EU;IT;IT-34;Verona;LIPX;VRN;VR10;10,8885;45,395699
+LIPY;medium_airport;Ancona Falconara Airport;49;EU;IT;IT-57;Ancona;LIPY;AOI;AN01;13,3623;43,616299
+LIPZ;large_airport;Venice Marco Polo Airport;7;EU;IT;IT-34;Venice;LIPZ;VCE;VE05;12,3519;45,505299
+LIQS;medium_airport;Siena-Ampugnano Airport;634;EU;IT;IT-52;Siena;LIQS;SAY;SI01;11,255;43,256302
+LIQW;medium_airport;Sarzana-Luni Air Base;45;EU;IT;IT-42;Sarzana (SP);LIQW;QLP;SP01;9,98795;44,088001
+LIRA;large_airport;CiampinoâG. B. Pastine International Airport;427;EU;IT;IT-62;Rome;LIRA;CIA;RM12;12,5949;41,7994
+LIRE;medium_airport;Pratica Di Mare Air Base;41;EU;IT;IT-62;Pomezia;LIRE;;RM22;12,4452;41,654499
+LIRF;large_airport;Leonardo da VinciâFiumicino Airport;13;EU;IT;IT-62;Rome;LIRF;FCO;RM11;12,2388889;41,8002778
+LIRG;medium_airport;Guidonia Air Base;289;EU;IT;IT-62;Guidonia;LIRG;;RM13;12,7408;41,990299
+LIRI;medium_airport;Salerno Costa d'Amalfi Airport;119;EU;IT;IT-72;Salerno;LIRI;QSR;SA02;14,9113;40,620399
+LIRJ;medium_airport;Marina Di Campo Airport;31;EU;IT;IT-52;Marina  Di Campo;LIRJ;EBA;LI04;10,2394;42,7603
+LIRL;medium_airport;Latina Air Base;94;EU;IT;IT-62;Latina;LIRL;QLT;LT02;12,909;41,5424
+LIRM;medium_airport;Grazzanise Air Base;29;EU;IT;IT-72;Caserta;LIRM;;CE07;14,0819;41,060799
+LIRN;large_airport;Naples International Airport;294;EU;IT;IT-72;NÃ¡poli;LIRN;NAP;NA01;14,2908;40,886002
+LIRP;large_airport;Pisa International Airport;6;EU;IT;IT-52;Pisa;LIRP;PSA;PI05;10,3927;43,683899
+LIRQ;medium_airport;Peretola Airport;142;EU;IT;IT-52;Firenze;LIRQ;FLR;FI04;11,2051;43,810001
+LIRS;medium_airport;Grosseto Air Base;17;EU;IT;IT-52;Grosetto;LIRS;GRS;GR06;11,0719;42,759701
+LIRU;medium_airport;Urbe Airport;55;EU;IT;IT-62;Roma;LIRU;;RM10;12,4989;41,9519
+LIRV;medium_airport;Viterbo Airport;992;EU;IT;IT-62;Viterbo;LIRV;;VT03;12,0642;42,430199
+LIRZ;medium_airport;Perugia San Francesco d'Assisi â Umbria International Airport;697;EU;IT;IT-55;Perugia;LIRZ;PEG;PG10;12,5132;43,095901
+LJCE;medium_airport;Cerklje Airport;510;EU;SI;SI-009;Cerklje ob Krki;LJCE;;;15,5302;45,90000153
+LJLJ;large_airport;Ljubljana JoÅ¾e PuÄnik Airport;1273;EU;SI;SI-061;Ljubljana;LJLJ;LJU;;14,4576;46,223701
+LJMB;medium_airport;Maribor Airport;876;EU;SI;SI-070;;LJMB;MBX;;15,68610001;46,47990036
+LJPZ;medium_airport;Portoroz Airport;7;EU;SI;SI-090;Portoroz;LJPZ;POW;;13,61499977;45,47340012
+LKCV;medium_airport;ÄÃ¡slav Air Base;794;EU;CZ;CZ-ST;ÄÃ¡slav;LKCV;;;15,3817997;49,93970108
+LKKB;medium_airport;Kbely Air Base;939;EU;CZ;CZ-PR;Prague;LKKB;;;14,54360008;50,12139893
+LKKU;medium_airport;Kunovice Airport;581;EU;CZ;CZ-ZL;UherskÃ© HradiÅ¡tÄ;LKKU;UHE;;17,43969917;49,02939987
+LKKV;medium_airport;Karlovy Vary International Airport;1989;EU;CZ;CZ-KA;Karlovy Vary;LKKV;KLV;;12,91499996;50,20299911
+LKLN;medium_airport;PlzeÅ-LÃ­nÄ Airport;1188;EU;CZ;CZ-PL;Plzen;LKLN;;;13,27460003;49,67520142
+LKMT;medium_airport;Ostrava Leos JanÃ¡Äek Airport;844;EU;CZ;CZ-MO;Ostrava;LKMT;OSR;;18,11109924;49,69630051
+LKNA;medium_airport;NÃ¡mÄÅ¡Å¥ Air Base;1548;EU;CZ;CZ-VY;NÃ¡mÄÅ¡Å¥;LKNA;;;16,12490082;49,16579819
+LKPD;medium_airport;Pardubice Airport;741;EU;CZ;CZ-PA;Pardubice;LKPD;PED;;15,73859978;50,01340103
+LKPO;medium_airport;PÅerov Air Base;676;EU;CZ;CZ-OL;PÅerov;LKPO;PRV;;17,40469933;49,42580032
+LKPR;large_airport;VÃ¡clav Havel Airport Prague;1247;EU;CZ;CZ-PR;Prague;LKPR;PRG;;14,26;50,1008
+LKTB;medium_airport;Brno-TuÅany Airport;778;EU;CZ;CZ-JM;Brno;LKTB;BRQ;;16,69440079;49,15129852
+LKVO;medium_airport;Vodochody Airport;919;EU;CZ;CZ-ST;Vodochody;LKVO;VOD;;14,3958;50,216599
+LLBG;large_airport;Ben Gurion International Airport;135;AS;IL;IL-M;Tel Aviv;LLBG;TLV;;34,88669968;32,01139832
+LLEK;medium_airport;Tel Nof Air Base;193;AS;IL;IL-M;Rehovot;LLEK;;;34,82180023;31,83950043
+LLER;medium_airport;Ramon Airport;288;AS;IL;IL-D;Eilat;LLER;ETM;;35,011416;29,723694
+LLHA;medium_airport;Haifa International Airport;28;AS;IL;IL-HA;Haifa;LLHA;HFA;;35,04309845;32,80939865
+LLIB;medium_airport;Ben Ya'akov Airport;922;AS;IL;IL-Z;Rosh Pina;LLIB;RPN;;35,57189941;32,98099899
+LLMZ;medium_airport;Bar Yehuda Airfield;-1266;AS;IL;IL-D;Masada;LLMZ;MTZ;;35,3885994;31,32819939
+LLNV;medium_airport;Nevatim Air Base;1330;AS;IL;IL-D;Beersheba;LLNV;VTM;;35,01229858;31,20829964
+LLOV;large_airport;Ovda International Airport;1492;AS;IL;IL-D;Eilat;LLOV;VDA;;34,93579865;29,94029999
+LLRD;medium_airport;Ramat David Air Base;185;AS;IL;IL-Z;Haifa;LLRD;;;35,17950058;32,6651001
+LLRM;medium_airport;Ramon Air Base;2126;AS;IL;IL-D;Beersheba;LLRM;MIP;;34,66669846;30,77610016
+LMML;large_airport;Malta International Airport;300;EU;MT;MT-25;Valletta;LMML;MLA;;14,4775;35,857498
+LOAN;medium_airport;Wiener Neustadt East Airport;896;EU;AT;AT-3;Wiener Neustadt;LOAN;;;16,26009941;47,84329987
+LOWG;medium_airport;Graz Airport;1115;EU;AT;AT-6;Graz;LOWG;GRZ;;15,43959999;46,99110031
+LOWI;medium_airport;Innsbruck Airport;1907;EU;AT;AT-7;Innsbruck;LOWI;INN;;11,344;47,260201
+LOWK;medium_airport;Klagenfurt Airport;1472;EU;AT;AT-2;Klagenfurt am WÃ¶rthersee;LOWK;KLU;;14,3377;46,642502
+LOWL;medium_airport;Linz HÃ¶rsching Airport;980;EU;AT;AT-4;Linz;LOWL;LNZ;;14,1875;48,2332
+LOWS;medium_airport;Salzburg Airport;1411;EU;AT;AT-5;Salzburg;LOWS;SZG;;13,00430012;47,79330063
+LOWW;large_airport;Vienna International Airport;600;EU;AT;AT-9;Vienna;LOWW;VIE;;16,56970024;48,11029816
+LOXZ;medium_airport;Hinterstoisser Air Base;2264;EU;AT;AT-6;Zeltweg;LOXZ;;;14,7442;47,202801
+LPAR;medium_airport;Alverca Air Base;11;EU;PT;PT-11;Vila Franca de Xira;LPAR;AVR;;-9,0301;38,883301
+LPAZ;medium_airport;Santa Maria Airport;308;EU;PT;PT-20;Vila do Porto;LPAZ;SMA;;-25,17060089;36,97140121
+LPBG;medium_airport;BraganÃ§a Airport;2241;EU;PT;PT-04;BraganÃ§a;LPBG;BGC;;-6,70713;41,8578
+LPBJ;medium_airport;Beja Airport / Airbase;636;EU;PT;PT-02;Beja;LPBJ;BYJ;;-7,9324;38,078899
+LPBR;medium_airport;Braga Municipal Aerodrome;247;EU;PT;PT-03;Braga;LPBR;BGZ;;-8,445139885;41,58710098
+LPCB;medium_airport;Aerodromo de Castelo Branco;1300;EU;PT;PT-05;Castelo Branco;LPCB;;;-7,44111;39,847022
+LPCO;medium_airport;Aerodromo Municipal de Coimbra;587;EU;PT;PT-06;Coimbra;LPCO;;;-8,470815;40,158758
+LPCS;medium_airport;Cascais Airport;325;EU;PT;PT-11;Cascais;LPCS;CAT;;-9,35523;38,724998
+LPEV;medium_airport;Ãvora Airport;807;EU;PT;PT-07;Ãvora;LPEV;;;-7,88964;38,533501
+LPFL;medium_airport;Flores Airport;112;EU;PT;PT-20;Santa Cruz das Flores;LPFL;FLW;;-31,13139915;39,45529938
+LPFR;large_airport;Faro Airport;24;EU;PT;PT-08;Faro;LPFR;FAO;;-7,965909958;37,01440048
+LPGR;medium_airport;Graciosa Airport;86;EU;PT;PT-20;Santa Cruz da Graciosa;LPGR;GRW;;-28,02980042;39,09220123
+LPHR;medium_airport;Horta Airport;118;EU;PT;PT-20;Horta;LPHR;HOR;;-28,71590042;38,51990128
+LPLA;large_airport;Lajes Airport;180;EU;PT;PT-20;Praia da VitÃ³ria;LPLA;TER;;-27,090799;38,761799
+LPMA;medium_airport;Madeira Airport;192;EU;PT;PT-30;Funchal;LPMA;FNC;;-16,7745;32,697899
+LPMR;medium_airport;Monte Real Air Base;187;EU;PT;PT-10;;LPMR;QLR;;-8,8875;39,828335
+LPMT;medium_airport;Montijo Air Base;46;EU;PT;PT-15;Montijo;LPMT;;;-9,03592;38,703899
+LPOT;medium_airport;Ota Air Base;140;EU;PT;PT-11;Alenquer;LPOT;;;-8,96278;39,087502
+LPOV;medium_airport;Ovar Air Base;56;EU;PT;PT-01;Ovar;LPOV;;;-8,64592;40,915901
+LPPD;large_airport;JoÃ£o Paulo II Airport;259;EU;PT;PT-20;Ponta Delgada;LPPD;PDL;;-25,69790077;37,74119949
+LPPI;medium_airport;Pico Airport;109;EU;PT;PT-20;Pico Island;LPPI;PIX;;-28,441299;38,554298
+LPPM;medium_airport;PortimÃ£o Airport;5;EU;PT;PT-08;PortimÃ£o;LPPM;PRM;;-8,58396;37,1493
+LPPR;large_airport;Francisco de SÃ¡ Carneiro Airport;228;EU;PT;PT-13;Porto;LPPR;OPO;;-8,681389809;41,24810028
+LPPS;medium_airport;Porto Santo Airport;341;EU;PT;PT-30;Vila Baleira;LPPS;PXO;;-16,35000038;33,07339859
+LPPT;large_airport;Humberto Delgado Airport (Lisbon Portela Airport);374;EU;PT;PT-11;Lisbon;LPPT;LIS;;-9,13592;38,7813
+LPSJ;medium_airport;SÃ£o Jorge Airport;311;EU;PT;PT-20;Velas;LPSJ;SJZ;;-28,1758;38,665501
+LPSO;medium_airport;Ponte de Sor Airport;;EU;PT;PT-12;Ponte de SÃ´r;LPSO;;;-8,056542;39,211559
+LPST;medium_airport;Sintra Air Base;440;EU;PT;PT-11;Sintra;LPST;;;-9,33955;38,8311
+LPTN;medium_airport;Tancos Airbase;266;EU;PT;PT-14;Tancos;LPTN;;;-8,36458;39,475101
+LPVL;medium_airport;Vilar de Luz Airfield;762;EU;PT;PT-13;Maia;LPVL;;;-8,516209;41,27729
+LPVR;medium_airport;Vila Real Airport;1805;EU;PT;PT-17;Vila Real;LPVR;VRL;;-7,72047;41,2743
+LPVZ;medium_airport;Aerodromo Goncalves Lobato (Viseu Airport);2060;EU;PT;PT-18;Viseu;LPVZ;VSE;;-7,88899;40,725498
+LQBK;medium_airport;Banja Luka International Airport;400;EU;BA;BA-SRP;Banja Luka;LQBK;BNX;;17,29750061;44,94139862
+LQMO;medium_airport;Mostar International Airport;156;EU;BA;BA-BIH;Mostar;LQMO;OMO;;17,84589958;43,28290176
+LQSA;large_airport;Sarajevo International Airport;1708;EU;BA;BA-BIH;Sarajevo;LQSA;SJJ;;18,3314991;43,82460022
+LQTZ;medium_airport;Tuzla International Airport;784;EU;BA;BA-BIH;Tuzla;LQTZ;TZL;;18,72480011;44,45869827
+LR79;medium_airport;Ianca Air Base;131;EU;RO;RO-BR;Ianca;;;;27,430901;45,158699
+LR80;medium_airport;FeteÅti Air Base;180;EU;RO;RO-IL;FeteÅti;LRFT;;;27,7267;44,3923
+LR82;medium_airport;Boboc Air Base;344;EU;RO;RO-BZ;Boboc;LRBO;;;26,9786;45,2164
+LRAR;medium_airport;Arad International Airport;352;EU;RO;RO-AR;Arad;LRAR;ARW;;21,26199913;46,17660141
+LRBC;medium_airport;BacÄu Airport;607;EU;RO;RO-BC;BacÄu;LRBC;BCM;;26,9102993;46,52190018
+LRBM;medium_airport;MaramureÈ International Airport;605;EU;RO;RO-MM;Baia Mare;LRBM;BAY;;23,467252;47,660598
+LRBS;medium_airport;BÄneasa International Airport;297;EU;RO;RO-B;Bucharest;LRBS;BBU;;26,10210037;44,50320053
+LRCK;medium_airport;Mihail KogÄlniceanu International Airport;353;EU;RO;RO-CT;ConstanÅ£a;LRCK;CND;;28,48830032;44,36220169
+LRCL;medium_airport;Cluj-Napoca International Airport;1039;EU;RO;RO-CJ;Cluj-Napoca;LRCL;CLJ;;23,686199;46,785198
+LRCS;medium_airport;CaransebeÅ Airport;866;EU;RO;RO-CS;CaransebeÅ;LRCS;CSB;;22,25329971;45,41999817
+LRCT;medium_airport;CÃ¢mpia Turzii Air Base;1083;EU;RO;RO-CJ;CÃ¢mpia Turzii;LRCT;;;23,8859005;46,50230026
+LRCV;medium_airport;Craiova Airport;626;EU;RO;RO-DJ;Craiova;LRCV;CRA;;23,8885994;44,31809998
+LRIA;medium_airport;IaÅi Airport;397;EU;RO;RO-IS;IaÅi;LRIA;IAS;;27,62059975;47,17850113
+LROD;medium_airport;Oradea International Airport;465;EU;RO;RO-BH;Oradea;LROD;OMR;;21,90250015;47,02529907
+LROP;large_airport;Henri CoandÄ International Airport;314;EU;RO;RO-B;Bucharest;LROP;OTP;;26,085;44,5711111
+LROV;medium_airport;BraÈov-Ghimbav International Airport (U.C.);1740;EU;RO;RO-BV;BraÈov;LROV;;;25,522871;45,70558
+LRSB;medium_airport;Sibiu International Airport;1496;EU;RO;RO-SB;Sibiu;LRSB;SBZ;;24,09129906;45,78559875
+LRSM;medium_airport;Satu Mare Airport;405;EU;RO;RO-SM;Satu Mare;LRSM;SUJ;;22,88570023;47,70330048
+LRSV;medium_airport;Suceava Stefan cel Mare Airport;1375;EU;RO;RO-SV;Suceava;LRSV;SCV;;26,35409927;47,6875
+LRTC;medium_airport;Tulcea Airport;200;EU;RO;RO-TL;Tulcea;LRTC;TCE;;28,71430016;45,0625
+LRTM;medium_airport;Transilvania TÃ¢rgu MureÅ International Airport;963;EU;RO;RO-MS;TÃ¢rgu MureÅ;LRTM;TGM;;24,41250038;46,46770096
+LRTR;medium_airport;TimiÅoara Traian Vuia Airport;348;EU;RO;RO-TM;TimiÅoara;LRTR;TSR;;21,33790016;45,80989838
+LSGC;medium_airport;Les Eplatures Airport;3368;EU;CH;CH-NE;La Chaux-de-Fonds;LSGC;;;6,792840004;47,08390045
+LSGG;large_airport;Geneva Cointrin International Airport;1411;EU;CH;CH-GE;Geneva;LSGG;GVA;;6,108950138;46,23809814
+LSGS;medium_airport;Sion Airport;1582;EU;CH;CH-VS;Sion;LSGS;SIR;;7,326944;46,219166
+LSMA;medium_airport;Alpnach Air Base;1460;EU;CH;CH-OW;Alpnach;LSMA;;;8,28417;46,943901
+LSMD;medium_airport;DÃ¼bendorf Air Base;1470;EU;CH;CH-ZH;Zurich;LSMD;;;8,648229599;47,39860153
+LSME;medium_airport;Emmen Air Base;1400;EU;CH;CH-LU;;LSME;EML;;8,305184;47,092444
+LSMF;medium_airport;Mollis Airport;1485;EU;CH;CH-GL;;LSMF;;;9,064829826;47,07889938
+LSMP;medium_airport;Payerne Air Base;1465;EU;CH;CH-FR;;LSMP;;;6,915060043;46,8432
+LSZA;medium_airport;Lugano Airport;915;EU;CH;CH-TI;Lugano;LSZA;LUG;;8,910579681;46,00429916
+LSZB;medium_airport;Bern Belp Airport;1674;EU;CH;CH-BE;Bern;LSZB;BRN;;7,497149944;46,91410065
+LSZG;medium_airport;Grenchen Airport;1411;EU;CH;CH-SO;Grenchen;LSZG;ZHI;;7,41719;47,181599
+LSZH;large_airport;ZÃ¼rich Airport;1416;EU;CH;CH-ZH;Zurich;LSZH;ZRH;;8,54917;47,464699
+LSZR;medium_airport;St Gallen Altenrhein Airport;1306;EU;CH;CH-SG;Altenrhein;LSZR;ACH;;9,560770035;47,48500061
+LSZS;medium_airport;Samedan Airport;5600;EU;CH;CH-GR;;LSZS;SMV;;9,884110451;46,53409958
+LTAC;large_airport;EsenboÄa International Airport;3125;AS;TR;TR-06;Ankara;LTAC;ESB;;32,99509811;40,12810135
+LTAD;medium_airport;Etimesgut Air Base;2653;AS;TR;TR-06;Ankara;LTAD;ANK;;32,68859863;39,94979858
+LTAE;medium_airport;AkÄ±ncÄ± Air Base;2767;AS;TR;TR-06;Ankara;LTAE;;;32,56560135;40,07889938
+LTAF;large_airport;Adana Airport;65;AS;TR;TR-01;Adana;LTAF;ADA;;35,28039932;36,98220062
+LTAG;medium_airport;Ä°ncirlik Air Base;238;AS;TR;TR-01;Adana;LTAG;UAB;;35,42589951;37,0021019
+LTAH;medium_airport;Afyon Airport;3310;AS;TR;TR-03;Afyonkarahisar;LTAH;AFY;;30,60110092;38,72639847
+LTAI;large_airport;Antalya International Airport;177;AS;TR;TR-07;Antalya;LTAI;AYT;;30,800501;36,898701
+LTAJ;large_airport;Gaziantep International Airport;2315;AS;TR;TR-27;Gaziantep;LTAJ;GZT;;37,47869873;36,94720078
+LTAN;medium_airport;Konya Airport;3392;AS;TR;TR-42;Konya;LTAN;KYA;;32,561901;37,979
+LTAT;medium_airport;Malatya ErhaÃ§ Airport;2828;AS;TR;TR-44;Malatya;LTAT;MLX;;38,0909996;38,43529892
+LTAU;medium_airport;Kayseri Erkilet Airport;3463;AS;TR;TR-38;Kayseri;LTAU;ASR;;35,49539948;38,770401
+LTAV;medium_airport;Sivrihisar Airport;3185;AS;TR;TR-26;Sivrihisar;LTAV;;;31,36529922;39,45149994
+LTAW;medium_airport;Tokat Airport;1831;AS;TR;TR-60;Tokat;LTAW;TJK;;36,36740875;40,30743027
+LTAY;medium_airport;Ãardak Airport;2795;AS;TR;TR-20;Denizli;LTAY;DNZ;;29,70129967;37,78559875
+LTBA;large_airport;AtatÃ¼rk International Airport;163;AS;TR;TR-34;Istanbul;LTBA;ISL;;28,8146;40,976898
+LTBF;medium_airport;BalÄ±kesir Merkez Airport;340;AS;TR;TR-10;;LTBF;BZI;;27,9260006;39,61930084
+LTBG;medium_airport;BandÄ±rma Airport;170;AS;TR;TR-10;;LTBG;BDM;;27,97769928;40,31800079
+LTBH;medium_airport;Ãanakkale Airport;23;AS;TR;TR-17;Ãanakkale;LTBH;CKZ;;26,42679977;40,13769913
+LTBI;medium_airport;EskiÅehir Air Base;2581;AS;TR;TR-26;;LTBI;ESK;;30,58209991;39,78409958
+LTBJ;large_airport;Adnan Menderes International Airport;412;AS;TR;TR-35;Ä°zmir;LTBJ;ADB;;27,15699959;38,29240036
+LTBL;medium_airport;ÃiÄli Airport;16;AS;TR;TR-35;;LTBL;IGL;;27,01009941;38,51300049
+LTBQ;medium_airport;Cengiz Topel Airport;182;AS;TR;TR-41;;LTBQ;KCO;;30,08329964;40,73500061
+LTBR;medium_airport;Bursa YeniÅehir Airport;764;AS;TR;TR-16;Bursa;LTBR;YEI;;29,56259918;40,25519943
+LTBS;large_airport;Dalaman International Airport;20;AS;TR;TR-48;Dalaman;LTBS;DLM;;28,79249954;36,71310043
+LTBT;medium_airport;Akhisar Airport;263;AS;TR;TR-45;;LTBT;;;27,83390045;38,80889893
+LTBU;medium_airport;TekirdaÄ Ãorlu Airport;574;EU;TR;TR-59;Ãorlu;LTBU;TEQ;;27,91909981;41,13819885
+LTBX;medium_airport;SamandÄ±ra Air Base;400;AS;TR;TR-34;Ãmraniye;LTBX;;;29,21649933;40,99300003
+LTBY;medium_airport;Anadolu Airport;2588;AS;TR;TR-26;EskiÅehir;LTBY;AOE;;30,5194;39,809898
+LTCA;medium_airport;ElazÄ±Ä Airport;2927;AS;TR;TR-23;ElazÄ±Ä;LTCA;EZS;;39,29140091;38,60689926
+LTCC;medium_airport;Diyarbakir Airport;2251;AS;TR;TR-21;Diyarbakir;LTCC;DIY;;40,20100021;37,89390183
+LTCD;medium_airport;Erzincan Airport;3783;AS;TR;TR-24;Erzincan;LTCD;ERC;;39,52700043;39,71020126
+LTCE;large_airport;Erzurum International Airport;5763;AS;TR;TR-25;Erzurum;LTCE;ERZ;;41,17020035;39,95650101
+LTCF;medium_airport;Kars Airport;5889;AS;TR;TR-36;Kars;LTCF;KSY;;43,11500168;40,56219864
+LTCG;large_airport;Trabzon International Airport;104;AS;TR;TR-61;Trabzon;LTCG;TZX;;39,78969955;40,99509811
+LTCH;medium_airport;ÅanlÄ±urfa Airport;1483;AS;TR;TR-63;ÅanlÄ±urfa;LTCH;SFQ;;38,8470993;37,09429932
+LTCI;medium_airport;Van Ferit Melen Airport;5480;AS;TR;TR-65;Van;LTCI;VAN;;43,33229828;38,46820068
+LTCJ;medium_airport;Batman Airport;1822;AS;TR;TR-72;Batman;LTCJ;BAL;;41,11660004;37,92900085
+LTCK;medium_airport;MuÅ Airport;4157;AS;TR;TR-49;MuÅ;LTCK;MSR;;41,66120148;38,74779892
+LTCL;medium_airport;Siirt Airport;2001;AS;TR;TR-56;Siirt;LTCL;SXZ;;41,8404007;37,97890091
+LTCN;medium_airport;KahramanmaraÅ Airport;1723;AS;TR;TR-46;KahramanmaraÅ;LTCN;KCM;;36,95352173;37,53882599
+LTCO;medium_airport;AÄrÄ± Airport;5462;AS;TR;TR-04;;LTCO;AJI;;43,02597809;39,65454102
+LTCP;medium_airport;AdÄ±yaman Airport;2216;AS;TR;TR-02;AdÄ±yaman;LTCP;ADF;;38,46889877;37,73139954
+LTCR;medium_airport;Mardin Airport;1729;AS;TR;TR-47;Mardin;LTCR;MQM;;40,63169861;37,22330093
+LTCS;medium_airport;ÅanlÄ±urfa GAP Airport;2708;AS;TR;TR-63;ÅanlÄ±urfa;LTCS;GNY;;38,895592;37,445663
+LTCV;medium_airport;ÅÄ±rnak Åerafettin ElÃ§i Airport;2038;AS;TR;TR-73;ÅÄ±rnak;LTCV;NKT;;42,0582;37,3647
+LTCW;medium_airport;Hakkari YÃ¼ksekova Airport;6400;AS;TR;TR-30;Hakkari;LTCW;YKO;;44,2381;37,5497
+LTDA;medium_airport;Hatay Airport;269;AS;TR;TR-31;Hatay;LTDA;HTY;;36,28222275;36,36277771
+LTFC;large_airport;SÃ¼leyman Demirel International Airport;2835;AS;TR;TR-32;Isparta;LTFC;ISE;;30,36840057;37,85540009
+LTFD;medium_airport;BalÄ±kesir KÃ¶rfez Airport;50;AS;TR;TR-10;Edremit;LTFD;EDO;;27,01379967;39,55459976
+LTFE;large_airport;Milas Bodrum International Airport;21;AS;TR;TR-48;Bodrum;LTFE;BJV;;27,66430092;37,25059891
+LTFJ;large_airport;Sabiha GÃ¶kÃ§en International Airport;312;AS;TR;TR-34;Istanbul;LTFJ;SAW;;29,30920029;40,89860153
+LTFM;large_airport;Istanbul Airport;325;AS;TR;TR-34;Istanbul;LTFM;IST;;28,751944;41,275278
+LTGP;medium_airport;GazipaÅa Airport;86;AS;TR;TR-07;GazipaÅa;LTFG;GZP;;32,300598;36,299217
+LUBL;medium_airport;BÄlÈi International Airport;758;EU;MD;MD-RS;BÄlÈi;LUBL;BZY;;27,777222;47,843056
+LUBM;medium_airport;MÄrculeÅti International Airport;312;EU;MD;MD-FR;MÄrculeÅti;LUBM;;;28,21279907;47,86270142
+LUCH;medium_airport;Cahul International Airport;652;EU;MD;MD-BL;Cahul;LUCH;;;28,26370049;45,84379959
+LUKK;medium_airport;ChiÅinÄu International Airport;399;EU;MD;MD-C;ChiÅinÄu;LUKK;KIV;;28,93099976;46,92770004
+LUTR;medium_airport;Tiraspol Airport;141;EU;MD;MD-TR;Tiraspol;LUTR;;;29,59059906;46,86809921
+LUZ;medium_airport;Lublin Airport;633;EU;PL;PL-LU;Lublin;EPLB;LUZ;;22,713611;51,240278
+LWOH;medium_airport;Ohrid St. Paul the Apostle Airport;2313;EU;MK;MK-003;Ohrid;LWOH;OHD;;20,7423;41,18
+LWSK;large_airport;Skopje International Airport;781;EU;MK;MK-004;Skopje;LWSK;SKP;;21,621401;41,961601
+LXGB;medium_airport;Gibraltar Airport;15;EU;GI;GI-U-A;Gibraltar;LXGB;GIB;;-5,34965992;36,15119934
+LY-BCQ;medium_airport;Brak Airport;1056;AF;LY;LY-SH;Brak;;BCQ;;14,272;27,653
+LYBE;large_airport;Belgrade Nikola Tesla Airport;335;EU;RS;RS-00;Belgrade;LYBE;BEG;;20,3090992;44,81840134
+LYBT;medium_airport;Batajnica Air Base;265;EU;RS;RS-07;Batajnica;LYBT;BJY;;20,2575;44,935299
+LYNI;medium_airport;Nis Airport;648;EU;RS;RS-20;Nis;LYNI;INI;;21,853701;43,337299
+LYPG;large_airport;Podgorica Airport;141;EU;ME;ME-16;Podgorica;LYPG;TGD;;19,2519;42,359402
+LYTV;medium_airport;Tivat Airport;20;EU;ME;ME-19;Tivat;LYTV;TIV;;18,72330093;42,40470123
+LZIB;large_airport;M. R. Å tefÃ¡nik Airport;436;EU;SK;SK-BL;Bratislava;LZIB;BTS;;17,21269989;48,17020035
+LZKZ;medium_airport;KoÅ¡ice Airport;755;EU;SK;SK-KI;KoÅ¡ice;LZKZ;KSC;;21,24110031;48,6631012
+LZMC;medium_airport;KuchyÅa Air Base;679;EU;SK;SK-BL;Malacky;LZMC;;;17,11840057;48,40200043
+LZPP;medium_airport;PieÅ¡Å¥any Airport;545;EU;SK;SK-TA;PieÅ¡Å¥any;LZPP;PZY;;17,82839966;48,62519836
+LZSL;medium_airport;SliaÄ Airport;1043;EU;SK;SK-BC;SliaÄ;LZSL;SLD;;19,13409996;48,63779831
+LZTN;medium_airport;TrenÄÃ­n Airport;676;EU;SK;SK-TC;TrenÄÃ­n;LZTN;;;17,99230003;48,86500168
+LZTT;medium_airport;Poprad-Tatry Airport;2356;EU;SK;SK-KI;Poprad;LZTT;TAT;;20,24110031;49,07360077
+LZZI;medium_airport;Å½ilina Airport;1020;EU;SK;SK-ZI;Å½ilina;LZZI;ILZ;;18,6135006;49,23149872
